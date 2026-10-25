@@ -91,7 +91,7 @@ function vQuiz(){const cs=quizCards();if(cs.length<5){V.innerHTML='<p class="mu"
   const {c,opts}=qs[i];V.innerHTML=`<div class="bar"><i style="width:${i*20}%"></i></div><div class="card"><div class="src">Question ${i+1}/5 · ${esc(c.cat||'Life')}</div><div class="q">${esc(c.q)}</div>${opts.map((o,k)=>`<button class="btn ghost opt" data-k="${k}" style="text-align:left">${esc(o)}</button>`).join('')}</div>`;
   V.querySelectorAll('.opt').forEach(b=>b.onclick=()=>{const ok=opts[+b.dataset.k]===c.a;if(ok)score++;b.style.borderColor=ok?'#4d6b3a':'#6b2c2c';V.querySelectorAll('.opt').forEach(x=>{if(opts[+x.dataset.k]===c.a)x.style.borderColor='#7fae5a';x.disabled=true});setTimeout(()=>{i++;step()},700)})};step()}
 // ---- face selfie → stylised illustration ----
-let FACE=localStorage.getItem('wisdom.face')||null;
+let FACE=null; // selfie feature removed; any old 'wisdom.face' value is ignored
 function stylizeFace(img){const N=160,cv=document.createElement('canvas');cv.width=cv.height=N;const x=cv.getContext('2d');const s=Math.min(img.width,img.height);
  x.drawImage(img,(img.width-s)/2,(img.height-s)/2-s*0.05,s,s,0,0,N,N);const d=x.getImageData(0,0,N,N),p=d.data,g=new Float32Array(N*N);
  for(let i=0;i<N*N;i++)g[i]=0.3*p[i*4]+0.59*p[i*4+1]+0.11*p[i*4+2];
@@ -100,7 +100,7 @@ function stylizeFace(img){const N=160,cv=document.createElement('canvas');cv.wid
   const gx=X>0&&X<N-1?g[i+1]-g[i-1]:0,gy=y>0&&y<N-1?g[i+N]-g[i-N]:0,e=Math.hypot(gx,gy);const k=e>48?0.35:1;
   p[i*4]=c[0]*k;p[i*4+1]=c[1]*k;p[i*4+2]=c[2]*k;const dx=X-N/2,dy=y-N/2;p[i*4+3]=dx*dx+dy*dy<(N/2)*(N/2)?255:0}
  x.putImageData(d,0,0);return cv.toDataURL('image/png')}
-function setFace(url){FACE=url;if(url)localStorage.setItem('wisdom.face',url);else localStorage.removeItem('wisdom.face')}
+function setFace(url){} // no-op (feature removed)
 // ---- URL params: ?import=steps:8500,kcal:450,workout:run:30  ?checkin=1  Strava ?code= ----
 function handleParams(){const P=new URLSearchParams(location.search);let target=null;const msgs=[];
  if(P.get('import')){ensure();const d=S.body.imports[today()]=S.body.imports[today()]||{};P.get('import').split(',').forEach(kv=>{const [k,...v]=kv.split(':');

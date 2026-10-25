@@ -6,7 +6,7 @@ function avatarSVG(rank,stats,equip,size,opts){equip=equip||{};size=size||220;ra
  let sx=1,flt='';if(cur&&typeof bodyShape==='function'){try{const b=bodyShape();sx=1+0.06*b.muscle+0.05*Math.max(0,b.fat);flt=`filter:saturate(${(1-0.3*b.soft).toFixed(2)}) brightness(${(1-0.12*b.soft).toFixed(2)});`}catch(e){}}
  const w=Math.round(size*0.8),h=Math.round(size*1.07);
  const items=cur?['watch','car','home','boat'].map(k=>itemById(equip[k])).filter(Boolean):[];
- const face=cur&&FACE&&size>=120?`<div class="av-face" style="width:${Math.round(size*0.26)}px;height:${Math.round(size*0.26)}px"><img src="${FACE}" alt=""></div>`:'';
+ const face='';
  return `<div class="av" style="width:${w}px;height:${h}px;${lk>=7?'--glow:.22':''}"><img src="avatar/t${lk}.webp" alt="${esc(RANKS[rank].n)}" loading="lazy" style="transform:scale(${(1.12*sx).toFixed(3)},1.12);${flt}">${face}${items.length?`<div class="av-items">${items.map(i=>`<span title="${esc(i.n)}">${i.e}</span>`).join('')}</div>`:''}</div>`}
 // Selfie: keep a soft, tone-matched circular crop instead of pasting onto the body
 function stylizeFace(img){const N=256,cv=document.createElement('canvas');cv.width=cv.height=N;const x=cv.getContext('2d');const s=Math.min(img.width,img.height);
