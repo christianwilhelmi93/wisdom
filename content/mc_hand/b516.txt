@@ -1,0 +1,60 @@
+516	The one who has too little.|The one who owes more than he owns.|The one who gives away too much.	Name one thing you still need to acquire.|Save one thing you'd normally spend on.|Compare what you own with a neighbour.
+517	In the approval of good people.|In study of the old masters.|In nature, away from the city.	Ask a friend what they admire in you.|Read five pages of a classic.|Spend five minutes walking in a park.
+518	Fame is the reward of virtue.|Fame outlives the famous.|Only the wise deserve fame.	Make one good deed widely known.|Write down how you'd like to be remembered.|Praise a public figure you admire.
+519	Those who share our principles.|Those who have earned our trust.|Humanity in general, not individuals.	Show appreciation to someone who agrees with you.|Thank someone who has proven loyal.|Donate to a cause for strangers.
+520	What benefits the bee benefits the hive.|The hive matters more than any bee.|Each bee must guard itself first.	Do one thing for your own growth.|Put the team's needs above your health today.|Protect your own time before helping others.
+521	On the goal ahead.|On the lessons of the past.|On what lies within your control tomorrow.	Plan tomorrow's tasks in detail.|Review what went wrong this week.|Set one goal for next month.
+522	Anything that is easily lost.|Anything gained without effort.|Anything others value highly.	Give away one fragile possession.|Turn down one easy win.|Ignore one thing that's in fashion.
+523	A punishment from fate.|A test of character.|An illusion of the senses.	Ask what a loss is teaching you.|Remind yourself a loss was deserved.|Tell yourself a loss didn't really happen.
+524	Fortune favours the bold.|Delay breeds anxiety.|Others will act if you don't.	Do the bold thing you've been avoiding.|Clear one task to ease your worry.|Take an opportunity before a rival does.
+525	Worrying about the future.|Pursuing pleasures.|Reading too many books.	Avoid planning beyond today.|Skip one treat today.|Put down a book you're reading.
+526	Unshakeable reason.|A will trained by hardship.|Indifference to insult.	Respond to hostility with cool logic.|Endure hostility silently as training.|Ignore a hostile remark entirely.
+527	Your reputation.|Your possessions, if well guarded.|Your body, if trained.	Remind yourself no one can damage your good name.|Check your belongings are secure this morning.|Remind yourself your training makes you tough.
+528	Dancing.|Sailing.|A long march.	Move gracefully with whatever comes today.|Adjust your course to today's conditions.|Keep plodding forward on a long task.
+529	He tolerated it politely.|He avoided needing it.|He corrected others first.	Listen politely to correction and move on.|Double-check work so no one corrects you.|Offer feedback before asking for any.
+530	Setting ambitious goals.|Copying a role model.|Forgiving your faults.	Write one ambitious goal.|Pick a role model to imitate.|Forgive yourself for one fault.
+531	Enjoy the feast fully while it lasts.|Refuse every dish to master desire.|Take your fair share before it's gone.	Indulge fully in something you enjoy.|Refuse something you want entirely.|Claim your share of something before others.
+532	Author of the play.|Spectator in the audience.|Critic of the performance.	Rewrite your role to suit yourself today.|Watch events today without taking part.|Judge how others play their roles today.
+533	With a firm defence.|With silent indifference.|With counter-criticism.	Defend yourself calmly against criticism.|Ignore criticism completely.|Point out the critic's own faults.
+534	Weakness.|Fate's hostility.|Bad planning.	Avoid a hard task that exposes weakness.|Accept a hard task as bad luck.|Re-plan so hard tasks don't arise.
+535	By satisfying desires.|By gaining power.|By escaping obligations.	Get one thing you want today.|Take control of one situation.|Drop one duty today.
+536	Change it through effort.|Ignore that it exists.|Resent it quietly.	Push harder for one outcome.|Pretend one outcome doesn't exist.|Vent about one outcome privately.
+537	For things as we want them.|For nothing at all.|For the best possible outcome.	Wish for one change calmly.|Stop hoping for anything today.|Hope for the best in one situation.
+538	What others will think.|Whether it brings pleasure.|What the rules say.	Ask how others would see one decision.|Choose one decision by how good it feels.|Check the rules before one decision.
+539	With the hardest trials.|With great ideals.|With reading theory.	Practise patience in a major crisis.|Define your highest ideal.|Read about patience before practising.
+540	A matter of knowledge.|An inborn gift.|A matter of luck.	Read about one virtue.|Notice a virtue you were born with.|Wait for a chance to show virtue.
+541	It earns others' respect.|It pays off in wealth later.|Suffering is good in itself.	Tell someone about a hardship you endured.|Endure a hard task for future profit.|Make yourself suffer for its own sake.
+542	The toil.|The fatigue.|The reward.	Do a tiring task to build toughness.|Do a task until you're exhausted.|Do a task for the reward.
+543	To mock fashion.|To show contempt for wealth.|To attract attention.	Mock a trend you dislike.|Dress plainly to look humble.|Do something unusual to stand out.
+544	A vessel to be filled.|A garden to be weeded.|A tool to be sharpened.	Memorise facts on a topic.|Remove one bad thought habit.|Drill a skill until it's sharp.
+545	By correcting them.|By politely ignoring them.|By avoiding them.	Correct someone you usually tune out.|Nod along to someone you usually tune out.|Skip a talk by someone dull.
+546	In great deeds.|In public speeches.|In times of crisis.	Notice your biggest achievements today.|Notice how you speak in public today.|Notice how you act under pressure today.
+547	When it is shared.|When it ends.|When it is endured silently.	Tell someone about a current difficulty.|Wait for a current difficulty to pass.|Bear a current difficulty without complaint.
+548	A distraction from reality.|A sign of madness.|A way to please guards.	Ignore a stressful situation by joking.|Laugh off a stressful situation recklessly.|Make others laugh to stay on their good side.
+549	Pleasure.|Power.|Survival.	Enjoy something pleasurable today.|Take charge of a situation today.|Look after your own needs today.
+550	Rising above one's emotions.|Fulfilling one's own potential.|Escaping the self through meditation.	Suppress one emotion today.|Work on one personal goal.|Meditate to quiet your sense of self.
+551	Boredom from lack of activity.|Emptiness from lack of pleasure.|Despair from lack of freedom.	Fill idle time with any activity.|Replace scrolling with a treat.|Assert your independence somewhere.
+552	Hoarded bread to survive.|Stayed silent and invisible.|Resisted the guards openly.	Keep something back for yourself today.|Stay out of others' business today.|Stand up to someone in authority today.
+553	Happiness lies in freedom.|Happiness lies in great love.|Happiness lies in faith.	Do something independently today.|Express deep love to someone.|Pray or meditate today.
+554	Glory was worth any sacrifice.|Napoleon was a great hero.|War was just.	Pursue one ambition harder.|Admire someone powerful.|Defend a cause you believe in.
+555	Living for family.|Living for reason.|Living for the land.	Spend time with family.|Think through one problem logically.|Work in the garden.
+556	Exhaustion from hard labour.|Pride in out-mowing the peasants.|Boredom from repetitive work.	Do hard work until exhausted.|Compete with someone at physical work.|Push through a boring chore.
+557	In the church.|In the next life.|In nature.	Attend a religious service.|Focus on preparing for the hereafter.|Go for a walk outdoors.
+558	Bread.|Work.|Hope.	Act to secure your needs.|Act out of duty.|Act on optimism alone.
+559	Fear of death.|Loss of his fortune.|A lesson from a priest.	Face your fear of mortality.|Give up one possession.|Ask a wise person for advice.
+560	Memorising scripture.|Writing a diary.|Reading great novels.	Memorise one card tonight.|Write a diary entry tonight.|Read a chapter of a novel tonight.
+561	Doing virtuous acts despite reluctance.|Being praised for virtue.|Feeling guilt when not virtuous.	Notice whether you force yourself to do right.|Notice whether others praise your good acts.|Notice whether you feel guilty after wrongs.
+562	Theoretical wisdom.|Scientific knowledge.|Craft skill.	Study a theory deeply today.|Learn a scientific fact today.|Practise a manual skill today.
+563	One kindness can't change the world.|Good things come in pairs.|Spring is fleeting.	Do one kindness and expect little.|Wait for a second good thing.|Enjoy the moment before it passes.
+564	A single act.|An inborn talent.|A gift of luck.	Do one excellent action.|Discover your natural talent.|Seize a lucky chance.
+565	Having no fear at all.|Boldness in any cause.|Avoiding danger wisely.	Do one thing with no fear at all.|Do one risky thing just to prove you're brave.|Avoid one risk sensibly.
+566	A useful ally.|A mirror of virtue.|A pleasant companion.	Ask a friend for a favour.|Compare your virtue with a friend's.|Have fun with a friend.
+567	Abstinence from pleasures.|Indulgence in pleasures.|Fear of pleasures.	Skip a treat entirely.|Enjoy a treat without limits.|Avoid treats out of guilt.
+568	Rest and recovery for work.|Entertainment.|Social activities.	Spend leisure time resting for work.|Spend leisure time watching a film.|Spend leisure time at a party.
+569	The occasion.|The topic.|The speaker's own style.	Tailor your message to the event.|Focus on your subject only.|Speak in your own voice regardless.
+570	A hero and villain.|A twist ending.|Conflict and resolution.	Tell a story with a strong hero.|Tell a story with a surprise ending.|Tell a story about a fight.
+571	Each part being equal.|Desire leading reason.|Spirit ruling reason.	Give each impulse equal weight.|Let desire lead one decision.|Let anger lead one decision.
+572	Whether invisibility is possible.|Whether power corrupts.|Whether justice pays.	Imagine being invisible.|Avoid taking power.|Do the right thing for a reward.
+573	Love of one person above all.|Descent from beauty to desire.|Beauty in art alone.	Appreciate one person's beauty.|Indulge a desire today.|Visit an art gallery.
+574	He feared exile.|He was too old.|He wanted martyrdom.	Avoid moving to a new place.|Decline something because of age.|Make a sacrifice for attention.
+575	Better to commit than suffer it.|Both are equally bad.|Better to avoid both by fleeing.	Retaliate today.|Treat a wrong done and suffered alike.|Avoid a conflict by leaving.
