@@ -10,3 +10,8 @@
  let removed=0;if(excess>0){removed=Math.min(S.xp,Math.round(excess*30*mult()));S.xp-=removed;S._xpSeen=S.xp;S.coins=Math.max(0,(S.coins||0)-Math.floor(removed/2));S.stats.body=Math.max(0,S.stats.body-2*excess)}
  S.fixWeigh1={d:today(),excess,removed};localStorage.setItem(KEY,JSON.stringify(S));
  if(removed)setTimeout(()=>{toast(`Fixed: removed ${removed} XP from repeated weigh-ins`);renderStats();const b=document.querySelector('nav button.on');if(b&&b.dataset.v==='today')go('today')},900)}catch(e){console.warn('fixWeigh1',e)}})();
+// ===== Build status feedback (Home compact, Body→Weight and Hall full) =====
+{const _h=views.today;views.today=function(){_h();const a=V.querySelector('.hrank')||V.querySelector('.hav');if(a)a.insertAdjacentHTML('afterend',bodyStatusHTML(false))};
+ const _b=vBody;vBody=function(tab){_b(tab);if(tab==='weight'&&$('#bv'))$('#bv').insertAdjacentHTML('afterbegin',bodyStatusHTML(true))};views.body=vBody;
+ const _hl=views.hall;views.hall=function(){_hl();const c=V.querySelector('.card');if(c)c.insertAdjacentHTML('afterend',bodyStatusHTML(true))};
+ const b=document.querySelector('nav button.on');if(b&&b.dataset.v==='today')go('today')}

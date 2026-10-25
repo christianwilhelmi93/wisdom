@@ -15,6 +15,21 @@ function stylizeFace(img){const N=256,cv=document.createElement('canvas');cv.wid
 
 // Body type: o=obese, w=overweight, s=soft, n=normal, a=athletic. Body fat % wins if logged; else BMI. Athletic needs training gains (>=20 of 40).
 const BODY_NAMES={o:'Obese',w:'Overweight',s:'Soft',n:'Normal',a:'Athletic'};
-function bodyType(){try{ensure();const B=S.body,lw=lastWeigh(),kg=lw?lw.kg:B.baseKg,bmi=kg/((B.height/100)**2),bf=lastBF(),fit=(B.gains||0)>=20;
- if(bf!=null)return bf>=30?'o':bf>=25?'w':bf>=20?'s':(bf<13&&fit)?'a':'n';
- return bmi>=32?'o':bmi>=28?'w':bmi>=25?(fit?'n':'s'):(bmi>=20&&fit)?'a':'n'}catch(e){return'n'}}
+function trained14(){const t=today(),from=addDays(t,-14),B=S.body;return (B.workouts||[]).some(w=>w.d>=from)||Object.keys(B.restDays||{}).some(d=>d>=from&&false)||Object.entries(((S.chal||{}).days)||{}).some(([d,e])=>d>=from&&e.ok)}
+function bodyInfo(){ensure();const B=S.body,lw=lastWeigh(),kg=lw?lw.kg:B.baseKg,h=B.height/100,bmi=kg/(h*h),bf=lastBF(),gains=B.gains||0,fit=gains>=20,soft0=trained14()?26:25;
+ let bt;if(bf!=null)bt=bf>=30?'o':bf>=25?'w':bf>=20?'s':(bf<13&&fit)?'a':'n';
+ else bt=bmi>=32?'o':bmi>=28?'w':bmi>=soft0?(fit?'n':'s'):(bmi>=20&&fit)?'a':'n';
+ return{bt,kg,h,bmi,bf,gains,fit,soft0}}
+// Body type: o=obese, w=overweight, s=soft, n=normal, a=athletic. Body fat % wins if logged; else BMI fallback (soft starts at 26 if trained in last 14 days). Athletic needs training gains >=20/40.
+function bodyType(){try{return bodyInfo().bt}catch(e){return'n'}}
+function bodyStatus(){const I=bodyInfo(),N=BODY_NAMES,kgAt=b=>b*I.h*I.h,d=x=>Math.abs(x).toFixed(1)+' kg',g=`training gains ${Math.floor(I.gains)}/20`;let drv,next,worse;
+ if(I.bf!=null){drv=`body fat ${I.bf}%`;const nx={o:['Overweight','<30%'],w:['Soft','<25%'],s:['Normal','<20%']}[I.bt];
+  next=nx?`${nx[0]} at ${nx[1]} body fat`:I.bt==='n'?(I.bf<13?`Athletic: need ${g}`:`Athletic at <13% body fat + ${g}`):'Top build — keep it';
+  worse=I.bt==='o'?'':I.bt==='a'?'Stop training and gains fade → Normal':`${{w:'Obese at ≥30%',s:'Overweight at ≥25%',n:'Soft at ≥20%'}[I.bt]} body fat`}
+ else{drv=`BMI ${I.bmi.toFixed(1)} (${I.kg} kg)`;const lim={o:32,w:28,s:I.soft0}[I.bt];
+  next=I.bt==='o'?`Overweight below BMI 32 (−${d(I.kg-kgAt(32))})`:I.bt==='w'?`Soft below BMI 28 (−${d(I.kg-kgAt(28))})`:I.bt==='s'?`Normal below BMI ${I.soft0} (−${d(I.kg-kgAt(I.soft0))}) or reach ${g}`:I.bt==='n'?(I.bmi<20?'Athletic: build up to BMI 20+ with training':`Athletic: ${g}`):'Top build — keep training';
+  worse=I.bt==='o'?'':I.bt==='a'?'Stop training and gains fade → Normal':I.bt==='n'?(I.bmi<I.soft0?`Soft at BMI ${I.soft0}+ (+${d(kgAt(I.soft0)-I.kg)})`:'Lose training gains → Soft'):`${{w:'Obese',s:'Overweight'}[I.bt]} at BMI ${{w:32,s:28}[I.bt]}+ (+${d(kgAt({w:32,s:28}[I.bt])-I.kg)})`}
+ const tip=I.bf==null?'BMI is only a fallback — log waist + neck at a weigh-in for body-fat %, which always wins.':'';
+ return{bt:I.bt,name:N[I.bt],drv,next,worse,tip,soft0:I.soft0}}
+function bodyStatusHTML(full){const s=bodyStatus();return full?`<div class="card" style="padding:12px 14px"><b>Build: ${s.name}</b> <span class="tag">· from ${esc(s.drv)}</span><div class="tag" style="margin-top:6px">▲ Next: ${esc(s.next)}</div>${s.worse?`<div class="tag">▼ Watch: ${esc(s.worse)}</div>`:''}${s.tip?`<div class="tag" style="margin-top:4px">ℹ️ ${esc(s.tip)}</div>`:''}</div>`
+ :`<div class="tag center" id="bstat" style="margin:4px 0 2px">Build: <b style="color:var(--tx)">${s.name}</b> · ${esc(s.drv)} · ▲ ${esc(s.next)}</div>`}
