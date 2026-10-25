@@ -1,0 +1,60 @@
+L|Seneca|Letters from a Stoic|Set aside days to live on the scantiest food, and ask: 'Is this what I feared?'|What question follows voluntary poverty?|'Is this what I feared?'|Skip one comfort and notice you're fine.
+L|Seneca|Letters from a Stoic|Nothing is ours except time. Nature entrusted us with this fleeting thing.|What alone is ours?|Time.|Guard one hour from distractions.
+L|Seneca|Letters from a Stoic|You must live for another if you wish to live for yourself.|How do we live for ourselves?|By living for others.|Do a favour for someone.
+L|Seneca|Letters from a Stoic|A good mind possesses a kingdom.|What does a good mind possess?|A kingdom.|Invest in your mind today.
+L|Seneca|Letters from a Stoic|Every new beginning comes from some other beginning's end.|Where do beginnings come from?|Other endings.|Treat an ending as a beginning.
+L|Seneca|On Leisure|We have two commonwealths: our local community and the whole world. Serve both.|What are the two commonwealths?|Local and universal.|Help both a neighbour and a global cause.
+L|Seneca|Natural Questions|Our ancestors' discoveries were not final; much remains for future generations.|What did Seneca say of knowledge?|Much remains to discover.|Learn something new about the world.
+L|Seneca|Letters from a Stoic|It is a rough road that leads to the heights of greatness.|What leads to greatness?|A rough road.|Take the harder right path today.
+L|Marcus Aurelius|Meditations|Look back over the past with its changing empires; you can foresee the future too.|What does history let us foresee?|The future's patterns.|Read history for 15 minutes.
+L|Marcus Aurelius|Meditations|When you arise in the morning, think of what a privilege it is to be alive.|What should we think of upon waking?|The privilege of being alive.|Say thanks on waking.
+L|Marcus Aurelius|Meditations|Reject your sense of injury and the injury itself disappears.|How does injury disappear?|By rejecting the sense of injury.|Drop the feeling of being wronged.
+L|Marcus Aurelius|Meditations|A cucumber is bitter? Throw it away. Briars? Step aside. Don't ask why they exist.|What does Marcus say about bitter cucumbers?|Throw them away; don't complain.|Step around an annoyance without complaint.
+L|Marcus Aurelius|Meditations|Whatever happens was prepared for you from eternity; accept it.|How should we view events?|As woven by fate.|Accept an event as part of the whole.
+L|Marcus Aurelius|Meditations|Pass through this brief life as nature demands, and end it gracefully, like an olive falling ripe.|How should life end, per Marcus?|Like a ripe olive falling.|Reflect on living well to the end.
+L|Marcus Aurelius|Meditations|Don't go on discussing what a good person is like — be one.|What should we do instead of discussing goodness?|Be good.|Do something good rather than discussing it.
+L|Epictetus|Discourses|Only the educated are free.|Who is free, per Epictetus?|The educated.|Study for 20 minutes.
+L|Epictetus|Discourses|Circumstances don't make the man; they reveal him to himself.|What do circumstances do, per Epictetus?|Reveal the man.|Notice what today's situation reveals about you.
+L|Epictetus|Discourses|Seek not that things happen as you wish but wish them as they happen.|What is Epictetus's maxim on events?|Wish things as they happen.|Embrace an unplanned event.
+L|Epictetus|Enchiridion|If you wish to be a writer, write. Become by doing.|How do you become a writer?|By writing.|Do the thing you want to become.
+L|Epictetus|Discourses|Don't explain philosophy; eat like a philosopher, walk like one.|What should a philosopher do instead of lecturing?|Live it.|Live a principle silently.
+L|Hierocles|Fragments|Draw the circles of concern inward: treat strangers like cousins, cousins like siblings.|What did Hierocles propose?|Drawing outer circles inward.|Treat a stranger like family.
+L|Zeno of Citium|Fragments|Well-being is attained little by little, yet it is no little thing.|How is well-being attained?|Little by little.|Take one small step toward well-being.
+L|Cleanthes|Hymn to Zeus|Lead me, Fate, where I must go; I'll follow willingly — or be dragged.|What is the choice in Cleanthes' hymn?|Follow willingly or be dragged.|Accept a necessary task willingly.
+L|Diogenes|Diogenes Laertius, Lives|Diogenes threw away his cup on seeing a child drink from his hands — owning less is freedom.|Why did Diogenes discard his cup?|He realised he didn't need it.|Give away an unneeded item.
+L|Diogenes|Diogenes Laertius, Lives|Asked by Alexander what he wanted, Diogenes said: 'Stand out of my sunlight.'|What did Diogenes ask of Alexander?|To stand out of his sunlight.|Value simple pleasures over status.
+L|Heraclitus|Fragments|No man steps in the same river twice; everything flows.|What did Heraclitus say about rivers?|You can't step in the same river twice.|Notice how you've changed this year.
+L|Heraclitus|Fragments|Character is destiny.|What is destiny, per Heraclitus?|Character.|Strengthen one trait.
+L|Pythagoras|Golden Verses|Each night, review the day: what did I do wrong, what right, what left undone?|What three questions are in the Golden Verses?|What wrong, what right, what undone.|Do the nightly review tonight.
+L|Democritus|Fragments|Happiness resides not in possessions but in the soul.|Where does happiness reside?|In the soul.|Find joy in a non-material thing.
+L|Solon|Herodotus, Histories|Call no man happy until he is dead; fortune can change.|What did Solon tell Croesus?|Call no man happy until he is dead.|Stay humble in good times.
+L|Herodotus|Histories|Haste in every business brings failure.|What brings failure, per Herodotus?|Haste.|Slow down on one important task.
+L|Thucydides|History of the Peloponnesian War|The strong do what they can and the weak suffer what they must. Build strength in calm.|What did the Athenians tell the Melians?|The strong do what they can.|Build your reserves.
+L|Thucydides|History of the Peloponnesian War|The secret of happiness is freedom, and the secret of freedom is courage.|What is the secret of freedom?|Courage.|Act courageously once today.
+L|Homer|The Odyssey|Odysseus had himself tied to the mast to resist the Sirens. Pre-commit against temptation.|What did Odysseus do to resist the Sirens?|Tied himself to the mast.|Remove a temptation in advance.
+L|Homer|The Iliad|Achilles chose a short glorious life over a long obscure one; know what you value.|What choice did Achilles make?|Glory over long life.|Clarify what you value most.
+L|Homer|The Odyssey|Penelope's patient weaving shows loyalty and cunning in waiting.|What does Penelope's weaving show?|Patient loyalty and cleverness.|Be patient in a waiting period.
+L|Virgil|Aeneid|Perhaps one day it will please us to remember even these things.|What did Aeneas say of hardships?|One day we may enjoy remembering them.|View today's struggle as a future story.
+L|Virgil|Georgics|Relentless labour conquers all.|What conquers all, per Virgil?|Relentless work.|Work steadily on a hard job.
+L|Horace|Odes|Carpe diem: seize the day, trusting little in tomorrow.|What does carpe diem mean?|Seize the day.|Do something today you'd postpone.
+L|Horace|Epistles|He who has begun is half done; dare to be wise.|What did Horace say about beginning?|Begun is half done.|Begin something.
+L|Horace|Satires|The golden mean: avoid extremes of luxury and poverty.|What did Horace praise?|The golden mean.|Moderate one excess.
+L|Ovid|Metamorphoses|Dripping water hollows stone, not through force but persistence.|How does water hollow stone?|Through persistence.|Persist on one task.
+L|Ovid|Ars Amatoria|Be patient and tough; one day this pain will be useful to you.|What will pain become?|Useful.|Endure a discomfort with purpose.
+L|Publilius Syrus|Sentences|Anyone can hold the helm when the sea is calm.|When can anyone steer?|When the sea is calm.|Lead calmly in a crisis.
+L|Publilius Syrus|Sentences|A good reputation is more valuable than money.|What is worth more than money?|A good reputation.|Protect your reputation today.
+L|Publilius Syrus|Sentences|We are interested in others when they are interested in us.|When are we interested in others?|When they're interested in us.|Show interest in someone.
+L|Juvenal|Satires|A sound mind in a sound body.|What did Juvenal pray for?|A sound mind in a sound body.|Exercise and read today.
+L|Quintilian|Institutes of Oratory|Write quickly and you'll never write well; write well and you'll soon write quickly.|What did Quintilian say about writing?|Write well first; speed follows.|Do one task slowly and well.
+L|Tacitus|Agricola|They make a desert and call it peace. Beware false victories.|What did Calgacus say of Rome?|They make a desert and call it peace.|Check if a 'win' damaged a relationship.
+L|Pliny the Younger|Letters|An object in possession seldom retains the charm it had in pursuit.|What happens to objects once possessed?|They lose their charm.|Wait a week before buying something.
+L|Plutarch|On Tranquillity of Mind|Contentment comes from recognising what we have, not dwelling on others' good fortune.|What brings contentment, per Plutarch?|Recognising what we have.|Write what you're grateful for.
+L|Plutarch|How to Profit by One's Enemies|Enemies watch you closely, so they make you careful and better.|How can enemies help us?|They make us more careful and better.|Learn from a critic.
+L|Plutarch|On Listening|Listening well is the beginning of living well.|What is the beginning of living well?|Listening well.|Listen without interrupting.
+L|Plutarch|Parallel Lives|Alexander said he'd rather excel in knowledge than in power.|What did Alexander prefer to power?|Knowledge.|Spend time learning.
+L|Arrian|Anabasis of Alexander|Alexander shared his soldiers' hardships — he poured out water rather than drink alone.|What did Alexander do with the water?|Poured it out to share hardship.|Share a hardship with your team.
+L|Sallust|The Jugurthine War|Concord makes small states great; discord ruins great ones.|What makes small states great?|Concord.|Resolve a family or team conflict.
+L|Livy|History of Rome|Fortune favours the brave.|What does fortune favour?|The brave.|Take a brave step.
+L|Cicero|On Duties|The first duty is to see to it that one's actions harm no one.|What is the first duty?|Harm no one.|Check whether a plan harms anyone.
+L|Cicero|Letters|If you have a garden and a library, you have everything you need.|What do you need, per Cicero?|A garden and a library.|Spend time in a garden or with a book.
+L|Cicero|Philippics|Any man can make mistakes, but only a fool persists in error.|What does a fool do?|Persists in error.|Correct one ongoing mistake.

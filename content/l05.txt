@@ -1,0 +1,59 @@
+L|M. Scott Peck|The Road Less Traveled|Life is difficult. Once we accept this truly, it no longer matters as much.|What is Peck's opening truth?|Life is difficult.|Accept one difficulty without complaint.
+L|M. Scott Peck|The Road Less Traveled|Discipline means delaying gratification, accepting responsibility, dedication to truth and balancing.|What are Peck's four tools of discipline?|Delay gratification, responsibility, truth, balance.|Delay one gratification today.
+L|M. Scott Peck|The Road Less Traveled|Love is the will to extend oneself for another's spiritual growth.|How does Peck define love?|Will to extend oneself for another's growth.|Support someone's growth.
+L|Erich Fromm|The Art of Loving|Love is an art requiring knowledge, effort, discipline and patience, not just a feeling.|What is love, per Fromm?|An art requiring practice.|Practise one act of attentive love.
+L|Erich Fromm|To Have or To Be?|Being-mode — living, sharing, growing — brings more fulfilment than having-mode.|What are Fromm's two modes?|Having and being.|Choose an experience over a purchase.
+L|Mihaly Csikszentmihalyi|Flow|Flow arises when challenge matches skill and attention is fully absorbed.|When does flow occur?|When challenge matches skill.|Find a task that fully absorbs you.
+L|Mihaly Csikszentmihalyi|Flow|The best moments usually occur when body or mind is stretched to its limits voluntarily.|When do the best moments occur?|When stretched voluntarily.|Push yourself in a chosen activity.
+L|Martin Seligman|Learned Optimism|Pessimists see setbacks as permanent, pervasive and personal; optimists as temporary and specific.|What are the 3 Ps of pessimism?|Permanent, pervasive, personal.|Reframe a setback as temporary.
+L|Martin Seligman|Authentic Happiness|Use your signature strengths daily for lasting satisfaction.|What brings lasting satisfaction?|Using signature strengths.|Use your top strength today.
+L|Martin Seligman|Flourish|Write three good things each evening and why they happened.|What is the 'three blessings' exercise?|Writing three good things nightly.|Write three good things tonight.
+L|Jonathan Haidt|The Happiness Hypothesis|The mind is a rider on an elephant: reason guides, but emotion has the power.|What is the elephant and rider?|Emotion (elephant) and reason (rider).|Motivate your 'elephant' with a small reward.
+L|Jonathan Haidt|The Happiness Hypothesis|Happiness comes from between: relationships, work and something larger.|Where does happiness come from, per Haidt?|From between — connections.|Strengthen one connection.
+L|Brené Brown|The Gifts of Imperfection|Vulnerability is the birthplace of courage, connection and creativity.|What is vulnerability the birthplace of?|Courage, connection, creativity.|Share something honest.
+L|Brené Brown|Daring Greatly|Shame thrives on secrecy; speaking it shrinks it.|How is shame reduced?|By speaking about it.|Talk about a struggle with someone trusted.
+L|Don Miguel Ruiz|The Four Agreements|Be impeccable with your word.|What is the first agreement?|Be impeccable with your word.|Say only what you mean today.
+L|Don Miguel Ruiz|The Four Agreements|Don't take anything personally; others' actions reflect them.|What is the second agreement?|Don't take anything personally.|Let a rude remark pass.
+L|Don Miguel Ruiz|The Four Agreements|Don't make assumptions; ask questions.|What is the third agreement?|Don't make assumptions.|Ask instead of assuming once.
+L|Don Miguel Ruiz|The Four Agreements|Always do your best — which varies by day.|What is the fourth agreement?|Always do your best.|Do your best without self-judgement.
+L|Eckhart Tolle|The Power of Now|The present moment is all you ever have; most suffering comes from mind-time.|What is all you ever have?|The present moment.|Notice your breath for a minute.
+L|Eckhart Tolle|The Power of Now|Watch the thinker: you are not your thoughts.|What does 'watch the thinker' mean?|Observe thoughts without identifying.|Observe your thoughts for two minutes.
+L|Paulo Coelho|The Alchemist|When you want something, the universe conspires to help you — persistence opens doors.|What happens when you truly want something?|Things align to help you.|Take action on a dream.
+L|Paulo Coelho|The Alchemist|The treasure is often found where you started, after the journey teaches you.|Where was Santiago's treasure?|Where he started.|Appreciate what's at home.
+L|Robert Pirsig|Zen and the Art of Motorcycle Maintenance|Quality is found in caring about what you do, even fixing a bolt.|Where is Quality found?|In caring about what you do.|Do a repair with care.
+L|Robert Pirsig|Zen and the Art of Motorcycle Maintenance|Gumption — enthusiasm — is the fuel; watch for gumption traps like impatience.|What are gumption traps?|Things that drain enthusiasm.|Spot a gumption trap and step around it.
+L|Antoine de Saint-Exupéry|The Little Prince|It is only with the heart that one can see rightly; what is essential is invisible to the eye.|What is invisible to the eye?|What is essential.|Notice an invisible value in someone.
+L|Antoine de Saint-Exupéry|The Little Prince|You become responsible forever for what you have tamed.|What are we responsible for?|What we have tamed.|Care for a relationship you've built.
+L|Antoine de Saint-Exupéry|Wind, Sand and Stars|Perfection is achieved when there is nothing left to take away.|When is perfection achieved?|When nothing is left to take away.|Remove one unnecessary thing.
+L|Jordan Peterson|12 Rules for Life|Compare yourself to who you were yesterday, not to others.|Whom should you compare yourself to?|Who you were yesterday.|Improve on yesterday in one way.
+L|Jordan Peterson|12 Rules for Life|Set your house in order before criticising the world.|What should come before criticising the world?|Setting your house in order.|Tidy one area of your life.
+L|Jordan Peterson|12 Rules for Life|Stand up straight with your shoulders back; posture affects confidence.|What is Rule 1?|Stand up straight.|Check your posture now.
+L|Mark Manson|The Subtle Art of Not Giving a F*ck|Choose what to care about; you can't care about everything.|What is Manson's core idea?|Choose what to care about.|Stop caring about one trivial thing.
+L|Mark Manson|The Subtle Art of Not Giving a F*ck|Happiness comes from solving problems, not avoiding them.|Where does happiness come from, per Manson?|Solving problems.|Solve one nagging problem.
+L|David Goggins|Can't Hurt Me|When you think you're done, you're only at 40% of your capacity.|What is the 40% rule?|When you think you're done, you're at 40%.|Push a bit further in your workout.
+L|David Goggins|Can't Hurt Me|Keep a 'cookie jar' of past victories to draw strength from.|What is the cookie jar?|A mental list of past victories.|Write three past victories.
+L|David Goggins|Can't Hurt Me|The accountability mirror: face yourself honestly and set goals on sticky notes.|What is the accountability mirror?|Honest self-confrontation with written goals.|Write a goal on your mirror.
+L|Peter Attia|Outlive|Train for the 'centenarian decathlon': fitness now determines what you can do at 90.|What is the centenarian decathlon?|Training for the tasks you want to do in old age.|Do strength training today.
+L|Peter Attia|Outlive|Zone 2 cardio builds metabolic health; a few hours a week pays off for life.|What does zone 2 cardio build?|Metabolic health.|Do 30 minutes of easy cardio.
+L|Matthew Walker|Why We Sleep|Sleep is the single most effective thing for brain and body health each day.|What is the most effective daily health practice?|Sleep.|Go to bed at a fixed time tonight.
+L|Matthew Walker|Why We Sleep|Keep a regular sleep schedule, and a cool, dark bedroom.|What helps sleep?|Regularity, cool and dark room.|Make your bedroom darker.
+L|Yamamoto Tsunetomo|Hagakure|Matters of great concern should be treated lightly; small matters seriously.|How should great and small matters be treated?|Great lightly, small seriously.|Take a small task seriously.
+L|Yamamoto Tsunetomo|Hagakure|Live each day as if already dead — free of fear, fully committed.|What does Hagakure advise about death?|Live as if already dead.|Act without fear today.
+L|Yamamoto Tsunetomo|Hagakure|Decide within seven breaths. Hesitation is weakness.|How quickly should a samurai decide?|Within seven breaths.|Make a quick decision.
+L|Inazo Nitobe|Bushido|Rectitude, courage, benevolence, politeness, honesty, honour and loyalty form the samurai code.|Name three Bushido virtues.|e.g. rectitude, courage, benevolence.|Practise politeness today.
+L|Miyamoto Musashi|Dokkodo|Accept everything just the way it is.|What is Musashi's first precept?|Accept everything as it is.|Accept a situation without complaining.
+L|Miyamoto Musashi|Dokkodo|Think lightly of yourself and deeply of the world.|How should we think of ourselves and the world?|Lightly of self, deeply of world.|Focus on others today.
+L|Miyamoto Musashi|Dokkodo|Do not be jealous; jealousy wastes energy.|What does Musashi advise against?|Jealousy.|Congratulate someone sincerely.
+L|Miyamoto Musashi|Dokkodo|Do not fear death; fear of death clouds judgement.|Why not fear death?|Fear clouds judgement.|Reflect calmly on mortality.
+L|Miyamoto Musashi|Dokkodo|Never stray from the Way.|What should never be strayed from?|The Way.|Stay true to your path today.
+L|Takuan Sōhō|The Unfettered Mind|Don't let the mind stop on anything; a mind that stops is caught.|What happens when the mind stops?|It gets caught.|Let a thought pass without dwelling.
+L|Shunryu Suzuki|Zen Mind, Beginner's Mind|In the beginner's mind there are many possibilities; in the expert's few.|What does beginner's mind offer?|Many possibilities.|Approach a familiar task freshly.
+L|Shunryu Suzuki|Zen Mind, Beginner's Mind|When you do something, burn yourself completely, like a good bonfire.|How should we act?|Completely.|Give one task everything.
+L|Alan Watts|The Wisdom of Insecurity|Trying to secure ourselves against life makes us anxious. Accept uncertainty.|What does seeking total security create?|Anxiety.|Accept one uncertainty.
+L|Alan Watts|Lectures|Life is like music: the point is the playing, not reaching the end.|What is life like, per Watts?|Music — the point is the playing.|Enjoy the process of a task.
+L|Joseph Campbell|The Power of Myth|Follow your bliss: doors open where there were none.|What did Campbell advise?|Follow your bliss.|Spend time on what lights you up.
+L|Joseph Campbell|The Hero with a Thousand Faces|The cave you fear to enter holds the treasure you seek.|What holds the treasure?|The cave you fear.|Enter one 'cave' you've avoided.
+L|C.S. Lewis|Mere Christianity|Humility is not thinking less of yourself but thinking of yourself less.|What is humility, per Lewis?|Thinking of yourself less.|Focus on others in a conversation.
+L|C.S. Lewis|The Four Loves|Friendship is born when one person says to another: 'What! You too?'|When is friendship born?|At 'What! You too?'|Share an interest with someone.
+L|J.R.R. Tolkien|The Lord of the Rings|All we have to decide is what to do with the time given to us.|What must we decide, per Gandalf?|What to do with our time.|Decide how to use one free hour.
+L|J.R.R. Tolkien|The Lord of the Rings|Not all who wander are lost.|What does Tolkien say about wanderers?|Not all are lost.|Explore without a fixed goal.

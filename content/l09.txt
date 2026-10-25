@@ -1,0 +1,59 @@
+L|Samuel Johnson|The Rambler|Great works are performed not by strength but by perseverance.|How are great works performed?|By perseverance.|Persist on a long project.
+L|Samuel Johnson|Rasselas|The happiness of life is made up of minute fractions — little kindnesses.|What makes up life's happiness?|Small fractions, little kindnesses.|Do three small kindnesses.
+L|Samuel Johnson|Boswell's Life of Johnson|Integrity without knowledge is weak; knowledge without integrity is dangerous.|What is knowledge without integrity?|Dangerous.|Pair learning with honesty.
+L|Samuel Johnson|The Idler|The chains of habit are too weak to be felt until they are too strong to be broken.|What did Johnson say of habit's chains?|Weak until unbreakable.|Break a minor bad habit now.
+L|Samuel Johnson|Boswell's Life of Johnson|When a man is tired of London, he is tired of life — stay curious about the world.|What did Johnson link to tiredness of life?|Being tired of London.|Explore a new place nearby.
+L|Alexander Pope|An Essay on Criticism|To err is human; to forgive, divine.|What is divine, per Pope?|To forgive.|Forgive one error.
+L|Alexander Pope|An Essay on Criticism|A little learning is a dangerous thing; drink deep.|Why is a little learning dangerous?|It breeds false confidence.|Go deeper on one subject.
+L|John Milton|Paradise Lost|The mind is its own place, and can make a heaven of hell or a hell of heaven.|What can the mind make?|Heaven of hell, hell of heaven.|Reframe a bad situation.
+L|John Donne|Meditation XVII|No man is an island; we are all part of the main.|What did Donne say no man is?|An island.|Reach out to someone isolated.
+L|Francis Bacon|Essays|Reading makes a full man; conference a ready man; writing an exact man.|What does writing make, per Bacon?|An exact man.|Write a short summary of a card.
+L|Francis Bacon|Essays|Knowledge is power.|What did Bacon say knowledge is?|Power.|Learn one useful fact.
+L|Francis Bacon|Essays|Some books are to be tasted, others swallowed, and some few chewed and digested.|How should some books be treated?|Chewed and digested.|Reread a key passage slowly.
+L|William Shakespeare|Hamlet|This above all: to thine own self be true.|What does Polonius advise above all?|Be true to yourself.|Make one choice true to yourself.
+L|William Shakespeare|Hamlet|There is nothing either good or bad, but thinking makes it so.|What makes things good or bad, per Hamlet?|Thinking.|Reinterpret one event.
+L|William Shakespeare|Julius Caesar|Cowards die many times before their deaths; the valiant taste death but once.|How often do cowards die?|Many times.|Act despite fear.
+L|William Shakespeare|Measure for Measure|Our doubts are traitors and make us lose the good we might win by fearing to attempt.|What are our doubts?|Traitors.|Attempt something despite doubts.
+L|William Shakespeare|As You Like It|All the world's a stage; each plays many parts.|What is the world, per Shakespeare?|A stage.|Play your part well today.
+L|William Shakespeare|King Lear|Lear learned too late to value honest love over flattery.|What did Lear fail to value?|Honest love over flattery.|Appreciate honest people.
+L|Cervantes|Don Quixote|Too much sanity may be madness — and to see life as it is, not as it should be.|What did Quixote say may be madness?|Too much sanity.|Hold onto an ideal.
+L|Cervantes|Don Quixote|The road is always better than the inn.|What is better than the inn?|The road.|Enjoy the journey of a project.
+L|Dante|Divine Comedy|In the middle of life's journey, I found myself in a dark wood. Every life has dark woods.|Where did Dante find himself?|A dark wood.|Seek guidance in a confused moment.
+L|Dante|Divine Comedy|The hottest places in hell are reserved for those who stay neutral in moral crisis (popular paraphrase).|What does the Dante paraphrase warn against?|Neutrality in moral crises.|Take a stand on something right.
+L|Goethe|Faust|Whatever you can do or dream you can, begin it (attributed).|What does the Goethe-attributed line urge?|Begin.|Begin a dream project.
+L|Goethe|Maxims and Reflections|Knowing is not enough; we must apply. Willing is not enough; we must do.|What is not enough, per Goethe?|Knowing and willing.|Apply one idea today.
+L|Goethe|Wilhelm Meister|One ought every day to hear a song, read a poem, see a picture and speak a few sensible words.|What should we do daily, per Goethe?|Song, poem, picture, sensible words.|Hear a song and read a poem.
+L|Goethe|Maxims and Reflections|Treat people as if they were what they ought to be and you help them become it.|How should we treat people, per Goethe?|As what they ought to be.|Treat someone as their best self.
+L|Schiller|Letters on Aesthetic Education|Man is only fully human when he plays.|When is man fully human, per Schiller?|When he plays.|Play for 20 minutes.
+L|Novalis|Fragments|Character is a completely fashioned will.|What is character?|A fully fashioned will.|Exercise your will on one decision.
+L|Alexis de Tocqueville|Democracy in America|Americans form associations for everything; civic life strengthens freedom.|What strengthens freedom, per Tocqueville?|Associations and civic life.|Join a local group.
+L|Edmund Burke|Reflections|The only thing necessary for evil to triumph is for good men to do nothing (attributed).|What lets evil triumph?|Good people doing nothing.|Speak up about one wrong.
+L|Thomas Paine|The American Crisis|These are the times that try men's souls; the harder the conflict, the more glorious the triumph.|What did Paine say about conflict?|The harder, the more glorious the triumph.|Push through a difficult moment.
+L|Thomas Jefferson|Letters|I find that the harder I work, the more luck I seem to have (attributed).|What creates luck, per the saying?|Hard work.|Put in extra effort today.
+L|John Adams|Letters|Facts are stubborn things; wishes can't alter evidence.|What did Adams say facts are?|Stubborn things.|Check facts before forming an opinion.
+L|George Washington|Rules of Civility|Labour to keep alive in your breast that little spark of celestial fire called conscience.|What did Washington call conscience?|A spark of celestial fire.|Follow your conscience.
+L|George Washington|Rules of Civility|Associate with men of good quality; it's better to be alone than in bad company.|What is better than bad company?|Being alone.|Choose good company.
+L|Florence Nightingale|Notes on Nursing|I attribute my success to this: I never gave or took any excuse.|To what did Nightingale attribute success?|Never giving or taking excuses.|Drop one excuse.
+L|Charles Darwin|The Descent of Man|In the long history of humankind, those who learned to collaborate prevailed (paraphrase).|What prevailed, per the Darwin paraphrase?|Collaboration.|Collaborate on a task.
+L|Charles Darwin|Letters|A man who dares to waste one hour has not discovered the value of life.|What does wasting an hour reveal?|Not knowing life's value.|Use one hour wisely.
+L|Louis Pasteur|Lectures|Chance favours the prepared mind.|Whom does chance favour?|The prepared mind.|Prepare for a hoped-for opportunity.
+L|Thomas Edison|Interviews|I have not failed; I've found 10,000 ways that won't work.|How did Edison view failure?|As finding ways that don't work.|Treat a failure as data.
+L|Thomas Edison|Interviews|Opportunity is missed because it is dressed in overalls and looks like work.|Why is opportunity missed?|It looks like work.|Do the hard work in front of you.
+L|Nikola Tesla|My Inventions|Tesla visualised machines fully in his mind before building them.|What did Tesla do before building?|Visualised fully.|Visualise a task before starting.
+L|Richard Feynman|Surely You're Joking, Mr. Feynman!|The first principle is that you must not fool yourself — and you are the easiest person to fool.|Who is easiest to fool?|Yourself.|Test one belief honestly.
+L|Richard Feynman|The Pleasure of Finding Things Out|Knowing the name of something is different from knowing something.|What is the difference Feynman stressed?|Naming vs understanding.|Explain a concept simply.
+L|Carl Sagan|Pale Blue Dot|Earth seen from afar is a pale blue dot; be kinder to one another.|What does the pale blue dot teach?|Humility and kindness.|Be kind to someone today.
+L|Carl Jung|Memories, Dreams, Reflections|What you resist persists; integrate your shadow.|What is Jung's shadow?|Unacknowledged parts of ourselves.|Acknowledge one trait you dislike in yourself.
+L|Carl Jung|Modern Man in Search of a Soul|Who looks outside dreams; who looks inside awakes.|Who awakes, per Jung?|Who looks inside.|Reflect inwardly for 10 minutes.
+L|Sigmund Freud|Civilisation and Its Discontents|Love and work are the cornerstones of our humanness (attributed).|What are the cornerstones of humanness?|Love and work.|Invest in both love and work today.
+L|Abraham Maslow|Motivation and Personality|What a man can be, he must be — self-actualisation.|What is self-actualisation?|Becoming what one can be.|Do something toward your potential.
+L|Abraham Maslow|The Psychology of Science|If all you have is a hammer, everything looks like a nail.|What is Maslow's hammer?|Over-relying on one tool.|Try a different approach.
+L|Carl Rogers|On Becoming a Person|The curious paradox: when I accept myself as I am, then I can change.|What is Rogers' paradox?|Self-acceptance enables change.|Accept one flaw kindly.
+L|Erik Erikson|Childhood and Society|Each life stage has its task; in later life, generativity — caring for the next generation.|What is generativity?|Caring for the next generation.|Mentor a younger person.
+L|Daniel Goleman|Emotional Intelligence|Self-awareness — recognising your feelings as they happen — is the keystone of emotional intelligence.|What is the keystone of EQ?|Self-awareness.|Name your emotion three times today.
+L|Daniel Goleman|Emotional Intelligence|Empathy is built by listening and reading nonverbal cues.|How is empathy built?|Listening and reading nonverbal cues.|Watch body language in a conversation.
+L|Susan Cain|Quiet|Introverts recharge alone; quiet strength is real strength.|How do introverts recharge?|Alone.|Schedule quiet recharge time.
+L|Viktor Frankl|Yes to Life|Life retains meaning under all circumstances, even suffering.|What did Frankl affirm in Yes to Life?|Life always has meaning.|Say yes to life in a hard moment.
+L|Stephen Covey|Principle-Centered Leadership|Principles are like a compass: they always point true north.|What are principles like?|A compass.|Check a decision against your principles.
+L|Epictetus|Discourses|Practise in small things first: a spilled oil, a stolen wine. 'That is the price of tranquillity.'|What is the price of tranquillity?|Small losses accepted calmly.|Accept a small loss calmly.
+L|Marcus Aurelius|Meditations|The soul becomes dyed with the colour of its thoughts.|What colours the soul?|Its thoughts.|Choose uplifting thoughts.

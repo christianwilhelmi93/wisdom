@@ -1,0 +1,60 @@
+L|Seneca|Letters from a Stoic|Even after a good meal, the Stoic keeps rehearsing simple living, so luck never owns him.|Why rehearse simplicity in good times?|So fortune never controls you.|Choose a simple option amid plenty.
+L|Seneca|Letters from a Stoic|Shared joy is doubled; teaching something to others is the best way to learn it.|Why share what you learn?|Teaching deepens learning.|Teach one card to someone today.
+L|Seneca|Letters from a Stoic|Old age is full of pleasure if you know how to use it.|What did Seneca say of old age?|It's full of pleasure if used well.|Plan a good habit for later life.
+L|Marcus Aurelius|Meditations|Take care not to be 'Caesarified' — dyed purple by power. Stay simple, good and pure.|What did Marcus warn against?|Being corrupted by power.|Stay humble in a position of authority.
+L|Marcus Aurelius|Meditations|Look beneath the surface; let neither the quality nor value of anything escape you.|What should not escape you?|The true quality of things.|Look beyond appearances once.
+L|Marcus Aurelius|Meditations|Remember: you are a small part of the whole, here a short time.|What should we remember about our place?|We're a small part of the whole.|Contribute to something larger.
+L|Epictetus|Discourses|Every habit is strengthened by corresponding actions: walking by walking, running by running.|How is a habit strengthened?|By corresponding actions.|Repeat a desired action.
+L|Epictetus|Discourses|If you would cure anger, don't feed the habit; count the days you weren't angry.|How did Epictetus suggest curing anger?|Count days without anger.|Start counting anger-free days.
+L|Epictetus|Enchiridion|Keep death and exile before your eyes daily; you'll never have a base thought.|What should we keep in mind daily?|Death and exile.|Reflect briefly on impermanence.
+L|Viktor Frankl|Man's Search for Meaning|Frankl's idea: the 'tragic triad' of pain, guilt and death can become sources of growth.|What is the tragic triad?|Pain, guilt, death.|Turn one guilt into a lesson.
+L|Leo Tolstoy|War and Peace|Natasha's joy in dancing shows the beauty of spontaneous life.|What does Natasha's dance show?|Spontaneous joy.|Do something spontaneous and joyful.
+L|Leo Tolstoy|War and Peace|Platon Karataev lived simply and kindly, accepting all — a model of peace.|What did Karataev teach Pierre?|Simple acceptance and kindness.|Accept a situation with good grace.
+L|Leo Tolstoy|Anna Karenina|Anna's tragedy shows how isolation and passion without grounding destroy.|What destroyed Anna?|Isolation and ungrounded passion.|Stay connected to people who ground you.
+L|Aristotle|Nicomachean Ethics|Shame is the fear of disrepute; it is fitting for the young, who make mistakes.|What is shame, per Aristotle?|Fear of disrepute.|Learn from a mistake without self-hatred.
+L|Aristotle|Nicomachean Ethics|We deliberate about means, not ends. Clarify the end, then choose means wisely.|What do we deliberate about?|Means, not ends.|Clarify the goal before choosing tactics.
+L|Confucius|Analects|When it is obvious goals can't be reached, don't adjust the goals; adjust the action steps.|What should be adjusted when goals seem unreachable?|The action steps.|Revise your plan, not your goal.
+L|Confucius|Analects|The cautious seldom err.|Who seldom errs?|The cautious.|Double-check one important thing.
+L|Confucius|Analects|Wherever you go, go with all your heart.|How should you go wherever you go?|With all your heart.|Put your heart into a task.
+L|Lao Tzu|Tao Te Ching|Be content with what you have; rejoice in the way things are.|What does Lao Tzu advise?|Contentment.|Rejoice in the present.
+L|Lao Tzu|Tao Te Ching|Kindness in words creates confidence; kindness in thinking creates profoundness.|What does kindness in thinking create?|Profoundness.|Think kindly about someone.
+L|Buddha|Dhammapada|Speak only endearing speech, speech that is welcomed.|What speech should we use?|Endearing, welcomed speech.|Speak kindly all day.
+L|Buddha|Dhammapada|Even death is not to be feared by one who has lived wisely.|Who need not fear death?|One who has lived wisely.|Live one day wisely.
+L|Buddha|Anguttara Nikaya|Generosity, kind speech, helpful action and impartiality bind people together.|What binds people together?|Generosity, kind speech, help, impartiality.|Practise all four today.
+L|Thich Nhat Hanh|The Art of Living|Walk as if you are kissing the earth with your feet.|How should we walk?|Mindfully, kissing the earth.|Take a slow mindful walk.
+L|Pema Chödrön|When Things Fall Apart|Things falling apart is a kind of testing and also a kind of healing.|What is falling apart, per Chödrön?|Testing and healing.|Lean into a difficulty.
+L|Pema Chödrön|The Places That Scare You|Lean into the sharp points; discomfort is where growth happens.|What does leaning into sharp points mean?|Facing discomfort to grow.|Stay with a discomfort a little longer.
+L|Jon Kabat-Zinn|Wherever You Go, There You Are|You can't stop the waves, but you can learn to surf.|What can you learn instead of stopping waves?|To surf.|Ride out one stressful moment.
+L|Ram Dass|Be Here Now|Be here now: presence is the gateway to peace.|What is the gateway to peace?|Presence.|Put your phone away for an hour.
+L|Wayne Dyer|Your Erroneous Zones|Guilt and worry are useless emotions; they immobilise you in the present.|What two emotions did Dyer call useless?|Guilt and worry.|Replace worry with action.
+L|Norman Vincent Peale|The Power of Positive Thinking|Believe in yourself; humble, reasonable confidence leads to success.|What does Peale urge?|Belief in yourself.|Affirm a strength.
+L|Maxwell Maltz|Psycho-Cybernetics|Your self-image sets the limits of your achievement; change it and you change your results.|What sets the limits of achievement?|Self-image.|Visualise yourself succeeding.
+L|Dorothea Brande|Wake Up and Live!|Act as if it were impossible to fail.|What does Brande advise?|Act as if failure were impossible.|Take action boldly.
+L|Ralph Waldo Emerson|Self-Reliance|Do not go where the path may lead; go where there is no path and leave a trail.|What did Emerson say about paths?|Make your own trail.|Try something original.
+L|Henry David Thoreau|Walden|Things do not change; we change.|What changes, per Thoreau?|We do.|Notice how your perception shifted.
+L|Henry David Thoreau|Walden|Wealth is the ability to fully experience life.|What is wealth, per Thoreau?|Ability to fully experience life.|Experience something fully today.
+L|Michel de Montaigne|Essays|There is no knowledge so hard to acquire as the knowledge of how to live this life well.|What is the hardest knowledge?|How to live well.|Reflect on living well.
+L|Michel de Montaigne|Essays|A man who fears suffering already suffers what he fears.|What does fear of suffering cause?|Suffering itself.|Let go of anticipatory fear.
+L|Blaise Pascal|Pensées|Kind words do not cost much, yet they accomplish much.|What do kind words do?|Accomplish much at little cost.|Say three kind words.
+L|Søren Kierkegaard|Purity of Heart|Purity of heart is to will one thing.|What is purity of heart?|To will one thing.|Focus on one aim today.
+L|Fyodor Dostoevsky|The Brothers Karamazov|Love all creation, every leaf and ray of light, and you'll perceive the divine mystery.|What should we love, per Zosima?|All creation.|Notice beauty in nature.
+L|Hermann Hesse|Demian|Each person's life is a road toward himself.|What is each life, per Hesse?|A road toward oneself.|Take one step toward your true self.
+L|Hermann Hesse|Steppenwolf|Learn to laugh at yourself and your seriousness.|What did Steppenwolf learn?|To laugh at himself.|Laugh at your own mistake.
+L|Rainer Maria Rilke|Letters to a Young Poet|Perhaps everything terrible is something helpless that wants our love.|What might terrible things be?|Helpless things wanting love.|Show compassion to a difficult person.
+L|Rabindranath Tagore|Stray Birds|You can't cross the sea merely by standing and staring at the water.|How can you cross the sea?|Not by staring — by acting.|Take action on a goal.
+L|Rabindranath Tagore|Gitanjali|I slept and dreamt life was joy; I woke and saw life was service; I acted and service was joy.|What did Tagore find service to be?|Joy.|Serve someone today.
+L|Khalil Gibran|Sand and Foam|Generosity is giving more than you can; pride is taking less than you need.|What is generosity, per Gibran?|Giving more than you can.|Give generously.
+L|Lin Yutang|The Importance of Living|The wise man is not busy; leisure is an art of living.|What is the wise man not?|Busy.|Enjoy idle time.
+L|Okakura Kakuzō|The Book of Tea|Teaism is the adoration of the beautiful among sordid daily facts.|What is Teaism?|Adoring beauty in daily life.|Make a cup of tea mindfully.
+L|Yoshida Kenkō|Essays in Idleness|Beauty lies in impermanence; if things lasted forever they'd lose their poignancy.|Where does beauty lie, per Kenkō?|In impermanence.|Appreciate something fleeting.
+L|Kamo no Chōmei|Hōjōki|The flowing river never stops, and yet the water never stays the same.|What image opens the Hōjōki?|The flowing river.|Accept change today.
+L|Matsuo Bashō|The Narrow Road to the Deep North|Every day is a journey, and the journey itself home.|What is home, per Bashō?|The journey itself.|Treat today as a journey.
+L|Sen no Rikyū|Teachings|Wabi-sabi: find beauty in the imperfect and simple.|What is wabi-sabi?|Beauty in imperfection.|Appreciate something imperfect.
+L|Ikigai (García & Miralles)|Ikigai|Ikigai lies where what you love, what you're good at, what the world needs and what pays meet.|What four things meet in ikigai?|Love, skill, need, pay.|Map your ikigai.
+L|Ikigai (García & Miralles)|Ikigai|Okinawans eat until 80% full (hara hachi bu).|What is hara hachi bu?|Eating until 80% full.|Stop eating at 80% full.
+L|Robin Sharma|The Monk Who Sold His Ferrari|Rise early, reflect and set intentions — the 'heart of the rose' practice for focus.|What did the monk recommend in the morning?|Rising early and reflecting.|Wake 20 minutes earlier tomorrow.
+L|Robin Sharma|The 5AM Club|Own your morning, elevate your life: the 20/20/20 formula — move, reflect, grow.|What is the 20/20/20 formula?|Move, reflect, grow in the first hour.|Try 20 minutes each of move, reflect, grow.
+L|Hal Elrod|The Miracle Morning|SAVERS: silence, affirmations, visualisation, exercise, reading, scribing.|What does SAVERS stand for?|Silence, affirmations, visualisation, exercise, reading, scribing.|Do one SAVERS practice tomorrow morning.
+L|Arnold Bennett|How to Live on 24 Hours a Day|You get 24 fresh hours daily; spend the spare 90 minutes on improving your mind.|What did Bennett suggest doing with spare time?|Improving the mind.|Use 90 minutes to learn tonight.
+L|Arnold Bennett|How to Live on 24 Hours a Day|Don't try to do too much at first; start with a small, manageable plan.|How should you start using your time better?|Small and manageable.|Start a 15-minute study habit.
+L|Wallace Wattles|The Science of Getting Rich|Gratitude keeps you connected to the source of good; be grateful.|What does Wattles emphasise?|Gratitude.|Write three gratitudes.

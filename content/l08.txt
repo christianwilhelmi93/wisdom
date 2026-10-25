@@ -1,0 +1,60 @@
+L|Benjamin Franklin|Autobiography|Temperance: eat not to dullness; drink not to elevation.|What is Franklin's first virtue?|Temperance.|Stop eating before you're full.
+L|Benjamin Franklin|Autobiography|Silence: speak not but what may benefit others or yourself; avoid trifling talk.|What is Franklin's virtue of silence?|Speak only what benefits.|Avoid gossip today.
+L|Benjamin Franklin|Autobiography|Order: let all your things have their places; let each part of business have its time.|What is the virtue of order?|Everything in its place and time.|Give one item a fixed place.
+L|Benjamin Franklin|Autobiography|Resolution: resolve to perform what you ought; perform without fail what you resolve.|What is resolution?|Doing what you resolve.|Keep one resolution today.
+L|Benjamin Franklin|Autobiography|Sincerity: use no hurtful deceit; think innocently and justly.|What is sincerity, per Franklin?|No hurtful deceit.|Be sincere in one compliment.
+L|Benjamin Franklin|Autobiography|Tranquillity: be not disturbed at trifles or common accidents.|What is tranquillity?|Not being disturbed by trifles.|Stay calm about a minor accident.
+L|Benjamin Franklin|Autobiography|Humility: imitate Jesus and Socrates.|How did Franklin define humility?|Imitate Jesus and Socrates.|Ask a question instead of asserting.
+L|Benjamin Franklin|Autobiography|Franklin admitted he never fully acquired humility, but the attempt improved him.|What did Franklin say about humility?|He never mastered it but improved by trying.|Pursue a virtue without needing perfection.
+L|Benjamin Franklin|Poor Richard's Almanack|Well done is better than well said.|What is better than well said?|Well done.|Finish a task instead of talking about it.
+L|Benjamin Franklin|Poor Richard's Almanack|He that lies down with dogs shall rise up with fleas.|What does the dogs and fleas proverb mean?|Bad company affects you.|Reduce time with a negative influence.
+L|Benjamin Franklin|Poor Richard's Almanack|Hunger never saw bad bread. Need sharpens appreciation.|What does hunger do to appreciation?|It sharpens it.|Eat a plain meal with appreciation.
+L|Benjamin Franklin|Poor Richard's Almanack|By failing to prepare, you are preparing to fail (popular attribution).|What happens if you fail to prepare?|You prepare to fail.|Prepare tomorrow's clothes and bag tonight.
+L|Stephen Covey|The 7 Habits of Highly Effective People|Private victories precede public victories: master yourself before leading others.|What precedes public victory?|Private victory.|Win one private battle today.
+L|Stephen Covey|The 7 Habits of Highly Effective People|Write a personal mission statement as your constitution for decisions.|What is a personal mission statement?|A personal constitution for life.|Draft a three-sentence mission statement.
+L|Stephen Covey|The 7 Habits of Highly Effective People|Identify your roles — parent, partner, friend — and set weekly goals for each.|How does Covey plan weekly?|By roles and goals.|Set one goal per role this week.
+L|Stephen Covey|The 7 Habits of Highly Effective People|Love is a verb. Love the feeling is a fruit of love the verb.|What did Covey say love is?|A verb.|Do a loving act regardless of feeling.
+L|Stephen Covey|The 7 Habits of Highly Effective People|Reactive language — 'I have to', 'They make me' — gives away power. Use proactive language.|What does reactive language do?|Gives away power.|Replace 'I have to' with 'I choose to'.
+L|Dale Carnegie|How to Win Friends and Influence People|Smile. A smile says 'I like you, you make me happy, I'm glad to see you.'|What does a smile communicate?|Liking and gladness.|Smile at everyone you meet.
+L|Dale Carnegie|How to Win Friends and Influence People|Be a good listener; encourage others to talk about themselves.|How can you be a good conversationalist?|Be a good listener.|Ask someone about their passion.
+L|Dale Carnegie|How to Win Friends and Influence People|Make the other person feel important — and do it sincerely.|What do people crave?|Feeling important.|Make someone feel important sincerely.
+L|Dale Carnegie|How to Win Friends and Influence People|Try honestly to see things from the other person's point of view.|What should you try to see?|Others' point of view.|Imagine a conflict from the other side.
+L|Dale Carnegie|How to Stop Worrying and Start Living|Count your blessings, not your troubles.|What should you count?|Blessings.|Count ten blessings.
+L|Dale Carnegie|How to Stop Worrying and Start Living|Don't try to get even with enemies; it hurts you more than them.|Why not get even?|It hurts you more.|Let go of a desire for revenge.
+L|Dale Carnegie|How to Stop Worrying and Start Living|Expect ingratitude; give for the joy of giving.|What should we expect from people?|Ingratitude.|Give without expecting thanks.
+L|Dale Carnegie|How to Stop Worrying and Start Living|If you have a lemon, make lemonade.|What is the lemonade principle?|Turn misfortune into advantage.|Find an advantage in a setback.
+L|Dale Carnegie|How to Stop Worrying and Start Living|Don't saw sawdust: what's past is past.|What is 'sawing sawdust'?|Dwelling on the past.|Stop replaying a past event.
+L|Dale Carnegie|How to Stop Worrying and Start Living|Rest before you get tired; fatigue breeds worry.|When should you rest?|Before getting tired.|Take a short break before fatigue.
+L|Viktor Frankl|Man's Search for Meaning|Prisoners who lost faith in the future were doomed; hope kept others alive.|What doomed prisoners?|Losing faith in the future.|Write one thing you look forward to.
+L|Viktor Frankl|Man's Search for Meaning|Frankl survived partly by imagining lecturing about the camps after the war.|What mental technique did Frankl use?|Imagining a meaningful future.|Visualise a meaningful future moment.
+L|Viktor Frankl|Man's Search for Meaning|Paradoxical intention: wishing for what you fear can dissolve anxiety.|What is paradoxical intention?|Intending the feared thing to reduce anxiety.|Laugh at a small fear.
+L|Viktor Frankl|Man's Search for Meaning|Dereflection: stop overthinking yourself; turn attention outward.|What is dereflection?|Redirecting attention away from oneself.|Focus on someone else when anxious.
+L|Leo Tolstoy|The Death of Ivan Ilyich|Gerasim's simple, honest care comforted Ivan more than lies from family.|What comforted Ivan Ilyich?|Gerasim's honest care.|Offer someone honest, simple care.
+L|Leo Tolstoy|Family Happiness|Romantic passion fades; a deeper, quieter love grows from shared life.|What replaced passion in Family Happiness?|A quieter, deeper love.|Appreciate the quiet side of a relationship.
+L|Leo Tolstoy|Resurrection|Nekhlyudov sought redemption by righting a past wrong.|What did Nekhlyudov try to do?|Right a past wrong.|Make amends for a past wrong.
+L|Leo Tolstoy|Hadji Murat|A crushed thistle that still stands inspired the story — a symbol of stubborn vitality.|What image opens Hadji Murat?|A crushed thistle still standing.|Persist despite being knocked down.
+L|Leo Tolstoy|The Kreutzer Sonata|Unexamined passions can destroy; know your inner drives.|What does the Kreutzer Sonata warn of?|Destructive unexamined passions.|Reflect on a strong urge.
+L|Leo Tolstoy|Writings on Civil Disobedience|Violence breeds violence; meet evil with nonresistance and good.|What did Tolstoy recommend against evil?|Nonresistance and good.|Respond to hostility without hostility.
+L|Leo Tolstoy|A Calendar of Wisdom|The best way to live is not to be idle; idleness breeds vice.|What did Tolstoy say about idleness?|It breeds vice.|Fill idle time with useful work.
+L|Aristotle|Nicomachean Ethics|Choices reveal character more than words.|What reveals character?|Choices.|Make one choice that shows who you are.
+L|Aristotle|Nicomachean Ethics|Generosity means giving the right amount, to the right person, at the right time.|What is true generosity?|Right amount, person, time.|Give thoughtfully today.
+L|Aristotle|Nicomachean Ethics|Magnanimity: the great-souled person claims much and deserves much, without arrogance.|What is magnanimity?|Greatness of soul with deserved self-respect.|Hold yourself to high standards.
+L|Aristotle|Nicomachean Ethics|Contemplation is the highest human activity — the life of the mind.|What is the highest activity?|Contemplation.|Spend 10 minutes thinking deeply.
+L|Aristotle|Eudemian Ethics|Truthfulness lies between boastfulness and false modesty.|What is truthfulness the mean between?|Boastfulness and false modesty.|Describe your work honestly.
+L|Aristotle|Politics|He who cannot be a good follower cannot be a good leader.|What must a leader first be?|A good follower.|Follow someone else's lead today.
+L|Aristotle|Rhetoric|We trust people of good character more readily on almost every subject.|Whom do we trust more readily?|People of good character.|Build credibility by keeping a promise.
+L|Aristotle|Physics|Nature does nothing in vain; everything has its purpose.|What does nature never do?|Anything in vain.|Find purpose in an ordinary task.
+L|Sun Tzu|The Art of War|If you are far from the enemy, make him believe you are near. Perception shapes reality.|What does Sun Tzu say about perception?|Shape the enemy's perception.|Present yourself confidently.
+L|Sun Tzu|The Art of War|The good fighter puts himself beyond defeat, then waits for the enemy's mistake.|What does the good fighter do first?|Makes himself invincible.|Secure your defences before taking risks.
+L|Sun Tzu|The Art of War|A leader leads by example, not by force.|How does a leader lead?|By example.|Model the behaviour you want.
+L|Sun Tzu|The Art of War|Do not repeat the tactics that gained you one victory; vary your methods.|Why vary tactics?|Repeated tactics become predictable.|Try a new approach to an old problem.
+L|Sun Tzu|The Art of War|Anger may turn to gladness, but a kingdom destroyed can never be restored. Act coolly.|Why avoid acting in anger?|Its damage can't be undone.|Delay a decision made in anger.
+L|Miyamoto Musashi|The Book of Five Rings|The Way is in training. Daily practice is the path.|Where is the Way?|In training.|Practise your craft daily.
+L|Miyamoto Musashi|The Book of Five Rings|You must understand there is more than one path to the top of the mountain.|What did Musashi say about paths?|There are many paths.|Consider an alternative route.
+L|Miyamoto Musashi|The Book of Five Rings|Today is victory over yourself of yesterday; tomorrow victory over lesser men.|What is today's victory?|Over yesterday's self.|Beat yesterday's performance.
+L|Miyamoto Musashi|The Book of Five Rings|Fixed gaze sees little; soften your eyes to see widely.|What does a fixed gaze do?|Sees little.|Step back to see the big picture.
+L|Musashi|Dokkodo|Do not seek pleasure for its own sake; respect gods and Buddha without relying on them.|What should one not rely on, per Dokkodo?|Gods and Buddha.|Take responsibility rather than hoping for luck.
+L|Epictetus|Discourses|What is the first business of philosophy? To part with self-conceit.|What is philosophy's first business?|Parting with self-conceit.|Drop one pretension.
+L|Seneca|Letters from a Stoic|Begin at once to live: count each day a separate life.|When should we begin to live?|At once.|Start one thing today.
+L|Marcus Aurelius|Meditations|Very little is needed to make a happy life; it's all within you.|How much is needed for happiness?|Very little.|Enjoy a simple pleasure.
+L|Epicurus|Vatican Sayings|Nothing is enough for the man to whom enough is too little.|What is never enough?|Anything for one who finds enough too little.|Define 'enough' for one desire.

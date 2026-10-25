@@ -1,0 +1,58 @@
+L|Aristotle|Nicomachean Ethics|Courage is acting rightly despite fear, not the absence of fear.|What is courage, per Aristotle?|Acting rightly despite fear.|Do one thing you fear but know is right.
+L|Aristotle|Nicomachean Ethics|A friend is a second self; we see ourselves more clearly through friends.|What did Aristotle call a friend?|A second self.|Ask a friend for honest feedback.
+L|Aristotle|Nicomachean Ethics|Temperance means enjoying pleasures in the right amount, neither denying nor overindulging.|What is temperance?|Moderation in pleasures.|Enjoy a treat in moderation.
+L|Aristotle|Politics|Leisure is for learning, reflection and higher pursuits, not mere amusement.|What is leisure for?|Higher pursuits and reflection.|Spend leisure time learning.
+L|Aristotle|Rhetoric|Good speakers adapt to the audience's character and emotions.|What must speakers adapt to?|The audience.|Tailor your message to your listener.
+L|Aristotle|Poetics|Stories need a beginning, middle and end; a plot unifies events.|What does a plot need?|Beginning, middle, end.|Tell a story with a clear structure.
+L|Plato|Republic|Justice in the soul is when reason, spirit and appetite each do their own job.|What is justice in the soul?|Each part doing its proper role.|Let reason lead one decision.
+L|Plato|Republic|The Ring of Gyges asks: would you be just if you could never be caught?|What does the Ring of Gyges test?|Whether we'd be just if invisible.|Do the right thing when no one watches.
+L|Plato|Symposium|Love ascends from one beautiful body to beauty itself — from the particular to the ideal.|What is the ladder of love?|Ascent from particular beauty to beauty itself.|Appreciate beauty in nature today.
+L|Plato|Crito|Socrates refused to escape prison, keeping his commitment to the laws.|Why did Socrates refuse escape?|To keep his commitment to the laws.|Keep a commitment even when inconvenient.
+L|Plato|Gorgias|It is better to suffer injustice than to commit it.|What did Socrates say about injustice?|Better to suffer than commit it.|Refuse to retaliate today.
+L|Plato|Meno|Learning is like recollection; questions draw out knowledge we already have.|What is learning, in Meno?|Recollection.|Teach someone by asking questions.
+L|Plato|Phaedo|Philosophy is practice for dying — freeing the soul from bodily attachments.|What is philosophy practice for, per Phaedo?|Dying.|Let go of one attachment.
+L|Socrates (via Xenophon)|Memorabilia|Socrates said the less we need, the closer we are to the gods.|What brings us closer to the gods?|Needing less.|Go without something today.
+L|Xenophon|Memorabilia|Socrates trained his body as well as his mind; fitness serves clear thinking.|Why did Socrates train his body?|Fitness supports clear thinking.|Exercise for 20 minutes.
+L|Xenophon|Oeconomicus|Order and organisation make a household beautiful and efficient.|What makes a household efficient?|Order.|Organise one drawer or cupboard.
+L|Lao Tzu|Tao Te Ching|To know you have enough is to be rich.|Who is rich, per Lao Tzu?|One who knows they have enough.|Say 'I have enough' about one thing.
+L|Lao Tzu|Tao Te Ching|The sage does not hoard; the more he gives, the more he has.|What happens when the sage gives?|He has more.|Give generously today.
+L|Lao Tzu|Tao Te Ching|Act without striving; let things happen naturally (wu wei).|What is wu wei?|Effortless action.|Let one thing unfold without forcing.
+L|Lao Tzu|Tao Te Ching|Great acts are made of small deeds; difficult things begin as easy.|What are great acts made of?|Small deeds.|Do one small step toward a big goal.
+L|Lao Tzu|Tao Te Ching|Those who know don't speak; those who speak don't know.|What does Lao Tzu say about speakers?|Those who know don't speak.|Speak less in one meeting.
+L|Lao Tzu|Tao Te Ching|The usefulness of a bowl is its emptiness. Space creates usefulness.|Why is a bowl useful?|Its emptiness.|Leave empty space in your schedule.
+L|Lao Tzu|Tao Te Ching|Mastering others requires force; mastering yourself requires strength.|What requires true strength?|Mastering yourself.|Control one impulse.
+L|Lao Tzu|Tao Te Ching|When I let go of what I am, I become what I might be.|What happens when we let go of what we are?|We become what we might be.|Let go of one fixed self-image.
+L|Chuang Tzu|Zhuangzi|The useless tree survives because no carpenter wants it. Usefulness can bring harm.|What did the useless tree teach?|Usefulness can lead to destruction.|Rest without justifying it.
+L|Chuang Tzu|Zhuangzi|The butcher's knife stayed sharp for years because he cut along natural joints.|What kept the butcher's knife sharp?|Cutting along natural joints.|Work with, not against, the grain of a problem.
+L|Chuang Tzu|Zhuangzi|Did I dream I was a butterfly, or am I a butterfly dreaming I'm a man? Hold identities lightly.|What is the butterfly dream about?|The uncertainty of identity and reality.|Hold one belief more lightly.
+L|Confucius|Analects|The superior man is modest in speech but exceeds in actions.|How does the superior man behave?|Modest in speech, exceeding in action.|Do more than you say today.
+L|Confucius|Analects|Real knowledge is knowing the extent of one's ignorance.|What is real knowledge?|Knowing the extent of one's ignorance.|Admit one thing you don't know.
+L|Confucius|Analects|By three methods we learn wisdom: reflection, imitation and experience.|What are the three methods of wisdom?|Reflection, imitation, experience.|Use reflection tonight.
+L|Confucius|Analects|The man who moves a mountain begins by carrying small stones.|How is a mountain moved?|By carrying small stones.|Carry one small stone toward a big goal.
+L|Confucius|Analects|Respect yourself and others will respect you.|What earns respect?|Self-respect.|Act with self-respect today.
+L|Confucius|Analects|Before you embark on revenge, dig two graves.|What does revenge cost?|It harms you too.|Let go of a grudge.
+L|Mencius|Mencius|Human nature is good, like water flowing downhill. Cultivate the sprouts of virtue.|What did Mencius say about human nature?|It is good.|Nurture one good impulse.
+L|Buddha|Dhammapada|Better than a thousand hollow words is one word that brings peace.|What is better than a thousand hollow words?|One word that brings peace.|Say one calming word to someone.
+L|Buddha|Dhammapada|Conquer anger with love, evil with good, meanness with generosity, lies with truth.|How is anger conquered?|With love.|Respond to meanness with generosity.
+L|Buddha|Dhammapada|One who conquers himself is greater than one who conquers a thousand men in battle.|Who is the greatest conqueror?|One who conquers himself.|Master one impulse today.
+L|Buddha|Dhammapada|As rain breaks through an ill-thatched house, passion breaks through an unreflecting mind.|What protects the mind?|Reflection.|Reflect before indulging.
+L|Buddha|Sutta Nipata|Craving is the root of suffering; release from craving brings peace.|What is the root of suffering?|Craving.|Notice one craving and let it pass.
+L|Buddha|Dhammapada|Health is the greatest gift, contentment the greatest wealth.|What is the greatest wealth?|Contentment.|List what you're content with.
+L|Buddha|Dhammapada|Drop by drop the water pot is filled. Good is accumulated little by little.|How is the pot filled?|Drop by drop.|Do one small good deed.
+L|Shantideva|The Way of the Bodhisattva|You can't cover the earth in leather, but you can wear sandals. Change your mind instead of the world.|What does the leather analogy teach?|Change your mind rather than the world.|Adjust your attitude to an annoyance.
+L|Thich Nhat Hanh|The Miracle of Mindfulness|Wash the dishes to wash the dishes. Full presence turns chores into meditation.|What does it mean to wash dishes to wash dishes?|Doing chores with full presence.|Do one chore mindfully.
+L|Thich Nhat Hanh|Peace Is Every Step|Breathing in, I calm my body; breathing out, I smile.|What is a simple mindfulness practice?|Conscious breathing with a smile.|Take three mindful breaths.
+L|Bhagavad Gita|Bhagavad Gita|You have a right to your actions, but not to their fruits. Act without attachment to results.|What do we have a right to, per the Gita?|Our actions, not their fruits.|Do your best work without worrying about praise.
+L|Bhagavad Gita|Bhagavad Gita|Better to do your own duty imperfectly than another's perfectly.|Whose duty should you do?|Your own.|Focus on your own responsibilities.
+L|Bhagavad Gita|Bhagavad Gita|The mind is restless, but it can be controlled by practice and detachment.|How is the mind controlled?|Practice and detachment.|Meditate for five minutes.
+L|Bhagavad Gita|Bhagavad Gita|Be even-minded in success and failure; that evenness is yoga.|What is yoga, per the Gita?|Evenness of mind.|Respond equally calmly to good and bad news.
+L|Rumi|Masnavi|The wound is the place where the light enters you.|What does Rumi say about wounds?|Light enters through them.|Find a lesson in a past hurt.
+L|Rumi|Masnavi|Yesterday I was clever and wanted to change the world; today I am wise and change myself.|What did Rumi say about changing the world?|Wise people change themselves.|Change one personal habit.
+L|Kahlil Gibran|The Prophet|Work is love made visible.|What did Gibran call work?|Love made visible.|Do today's work with love.
+L|Kahlil Gibran|The Prophet|Your children are not your children; they come through you but not from you.|What did Gibran say of children?|They come through you, not from you.|Encourage someone's independence.
+L|Kahlil Gibran|The Prophet|Let there be spaces in your togetherness.|What should be in togetherness?|Spaces.|Give a loved one room.
+L|Kahlil Gibran|The Prophet|The deeper sorrow carves into your being, the more joy you can contain.|How does sorrow relate to joy?|Sorrow deepens our capacity for joy.|Remember a sorrow that deepened you.
+L|Thomas à Kempis|The Imitation of Christ|Be not angry that you cannot make others as you wish, since you cannot make yourself as you wish.|Why not be angry at others?|We cannot even make ourselves as we wish.|Forgive someone's flaw.
+L|Thomas à Kempis|The Imitation of Christ|Occasions of adversity best show us how much virtue we have.|What shows our virtue?|Adversity.|Treat today's challenge as a test.
+L|Augustine|Confessions|Our hearts are restless until they find rest in something greater.|What did Augustine say about restless hearts?|They seek rest in something greater.|Reflect on what gives you rest.
+L|Augustine|Confessions|Augustine prayed 'give me chastity, but not yet' — we postpone virtue.|What did Augustine's 'not yet' show?|Our tendency to postpone virtue.|Start a good habit today, not tomorrow.

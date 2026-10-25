@@ -1,0 +1,59 @@
+L|Michel de Montaigne|Essays|The greatest thing in the world is to know how to belong to oneself.|What is the greatest thing, per Montaigne?|Knowing how to belong to oneself.|Spend an hour on your own terms.
+L|Michel de Montaigne|Essays|When I play with my cat, who knows whether she is amusing herself with me more than I with her?|What does the cat remark teach?|Humility about our perspective.|Consider a situation from another's view.
+L|Michel de Montaigne|Essays|We must reserve a back room all our own, entirely free, for our true liberty.|What is Montaigne's 'back room'?|An inner space of freedom.|Create a quiet corner or time for yourself.
+L|Michel de Montaigne|Essays|No man is a hero to his valet; intimacy reveals ordinary humanity.|What does intimacy reveal?|Ordinary humanity.|Be kind about a loved one's flaws.
+L|Michel de Montaigne|Essays|Habit is a violent schoolmistress; it gradually establishes authority over us.|What did Montaigne say about habit?|It gains authority gradually.|Notice a habit that controls you.
+L|Michel de Montaigne|Essays|A wise man sees as much as he ought, not as much as he can.|What does the wise man see?|As much as he ought.|Ignore one unnecessary piece of news.
+L|Blaise Pascal|Pensées|The heart has its reasons which reason knows nothing of.|What does the heart have?|Reasons reason doesn't know.|Honour a feeling you can't explain.
+L|Blaise Pascal|Pensées|Man is a thinking reed — fragile, yet noble because he thinks.|Why is man noble, per Pascal?|Because he thinks.|Spend 10 minutes thinking deeply.
+L|Blaise Pascal|Pensées|We never live in the present; we anticipate the future or recall the past.|Where do we rarely live?|The present.|Notice when you drift from the present.
+L|La Rochefoucauld|Maxims|We all have strength enough to endure the misfortunes of others.|What did La Rochefoucauld say we can easily endure?|Others' misfortunes.|Show real sympathy to someone struggling.
+L|La Rochefoucauld|Maxims|Self-interest speaks all languages and plays all roles, even disinterest.|What does self-interest disguise itself as?|Disinterest.|Check your motives in one generous act.
+L|La Rochefoucauld|Maxims|We are never so easily deceived as when we imagine we are deceiving others.|When are we easily deceived?|When we think we deceive others.|Be honest in one small thing.
+L|La Bruyère|Characters|Most men use the first part of life to make the last part miserable.|What did La Bruyère say about youth?|Many waste it making later life miserable.|Make one choice your future self will thank you for.
+L|Voltaire|Candide|We must cultivate our garden: practical work beats idle speculation.|What is Candide's conclusion?|Cultivate our garden.|Do practical work at home.
+L|Voltaire|Philosophical Dictionary|The best is the enemy of the good. Perfectionism blocks progress.|What is the enemy of the good?|The best.|Finish something good enough.
+L|Jean-Jacques Rousseau|Emile|Patience is bitter but its fruit sweet; children learn by experience, not lectures.|How should children learn, per Rousseau?|By experience.|Let someone learn by doing.
+L|Adam Smith|The Theory of Moral Sentiments|Imagine an impartial spectator watching you; behave as they'd approve.|What is the impartial spectator?|An imagined fair observer judging our conduct.|Ask what an impartial observer would think of your actions.
+L|Adam Smith|The Theory of Moral Sentiments|Happiness consists in tranquillity and enjoyment, not in endless ambition.|What brings happiness, per Smith?|Tranquillity and enjoyment.|Enjoy a quiet moment without ambition.
+L|David Hume|Essays|Be a philosopher, but amid all your philosophy, be still a man.|What did Hume advise philosophers?|Remain human.|Balance study with friendship today.
+L|Immanuel Kant|Groundwork|Act only by rules you could will to be universal laws.|What is the categorical imperative?|Act only on maxims you'd make universal laws.|Ask: what if everyone did this?
+L|Immanuel Kant|Groundwork|Treat people always as ends, never merely as means.|How should people be treated?|As ends, never merely as means.|Treat a service worker as a person, not a function.
+L|Immanuel Kant|What Is Enlightenment?|Dare to know: have courage to use your own understanding.|What is the motto of enlightenment?|Dare to know.|Form your own view on one issue.
+L|Arthur Schopenhauer|The Wisdom of Life|We seldom think of what we have but always of what we lack.|What do we seldom think of?|What we have.|List five things you have.
+L|Arthur Schopenhauer|Essays|Reading is thinking with someone else's head; think for yourself too.|What is reading, per Schopenhauer?|Thinking with someone else's head.|Reflect on a card in your own words.
+L|Arthur Schopenhauer|The Wisdom of Life|A cheerful disposition is the greatest asset for happiness.|What is the greatest asset for happiness?|Cheerfulness.|Choose cheerfulness in one task.
+L|Friedrich Nietzsche|Twilight of the Idols|What does not kill me makes me stronger.|What makes us stronger, per Nietzsche?|What doesn't kill us.|Face one discomfort.
+L|Friedrich Nietzsche|Thus Spoke Zarathustra|Become who you are: develop your unique potential.|What is Nietzsche's call?|Become who you are.|Do one thing true to yourself.
+L|Friedrich Nietzsche|The Gay Science|Amor fati: love your fate, including its hardships.|What is amor fati?|Love of one's fate.|Embrace a setback as necessary.
+L|Friedrich Nietzsche|The Gay Science|Imagine living your life over and over eternally. Would you rejoice?|What is the eternal recurrence test?|Would you embrace living this life eternally?|Make today one you'd happily repeat.
+L|Friedrich Nietzsche|Twilight of the Idols|He who has a why to live can bear almost any how.|What can bear almost any how?|One with a why.|Write your why.
+L|Søren Kierkegaard|Journals|Life can only be understood backwards, but must be lived forwards.|How is life understood and lived?|Understood backwards, lived forwards.|Make a decision without needing total certainty.
+L|Søren Kierkegaard|Either/Or|Anxiety is the dizziness of freedom.|What is anxiety, per Kierkegaard?|The dizziness of freedom.|Treat anxiety as a sign of choice.
+L|Søren Kierkegaard|Works of Love|Love believes all things yet is never deceived.|What does love do?|Believes all things.|Assume good intent once today.
+L|Fyodor Dostoevsky|Crime and Punishment|Raskolnikov's guilt shows we cannot reason ourselves above conscience.|What does Raskolnikov's story show?|Conscience can't be reasoned away.|Listen to your conscience.
+L|Fyodor Dostoevsky|The Brothers Karamazov|Each of us is responsible for everyone; small kindnesses matter.|What did Zosima teach about responsibility?|We're responsible for all.|Do a kindness for a stranger.
+L|Fyodor Dostoevsky|Notes from Underground|Humans value free will so much they'll act irrationally to prove it.|What does the Underground Man insist on?|Free will even against reason.|Notice where you resist good advice out of pride.
+L|Fyodor Dostoevsky|The Idiot|Beauty will save the world — compassion and goodness have power.|What will save the world?|Beauty.|Create or notice beauty today.
+L|Victor Hugo|Les Misérables|To love another person is to see the face of God.|What did Hugo say about love?|To love another is to see God's face.|Show love to someone.
+L|Victor Hugo|Les Misérables|Even the darkest night will end and the sun will rise.|What did Hugo say about the darkest night?|It ends and the sun rises.|Remember a past hard time that ended.
+L|Victor Hugo|Les Misérables|Javert's rigid sense of law, without mercy, destroyed him.|What destroyed Javert?|Rigid justice without mercy.|Show mercy in one judgement.
+L|Charles Dickens|A Christmas Carol|Scrooge transformed by facing past, present and future consequences of his life.|What changed Scrooge?|Seeing the consequences of his life.|Imagine your future if habits continue.
+L|Charles Dickens|David Copperfield|Annual income twenty pounds, expenditure nineteen — happiness; expenditure twenty-one — misery.|What is Micawber's rule?|Spend less than you earn.|Check that spending is below income.
+L|Charles Dickens|Great Expectations|Pip learns that loyalty and humility matter more than social status.|What does Pip learn?|Loyalty and humility outrank status.|Thank someone who helped you early.
+L|Jane Austen|Pride and Prejudice|First impressions mislead; pride and prejudice blind us.|What blinds Elizabeth and Darcy?|Pride and prejudice.|Revisit a first impression.
+L|Jane Austen|Sense and Sensibility|Balance feeling with judgement; neither alone suffices.|What must be balanced?|Sense and sensibility.|Weigh both feelings and facts in a decision.
+L|George Eliot|Middlemarch|The growing good of the world depends partly on unhistoric acts of quiet lives.|What does the world's good depend on?|Unhistoric acts.|Do a quiet good deed.
+L|Herman Melville|Moby-Dick|Ahab's obsession destroyed him and his crew. Fixation can sink you.|What destroyed Ahab?|Obsession.|Drop an unhealthy fixation.
+L|Mark Twain|Following the Equator|Twenty years from now you'll regret what you didn't do more than what you did.|What will you regret most?|What you didn't do.|Do one thing you've wanted to try.
+L|Mark Twain|Notebooks|The secret of getting ahead is getting started.|What is the secret of getting ahead?|Getting started.|Start a task you've delayed.
+L|Mark Twain|Pudd'nhead Wilson|Courage is resistance to fear, mastery of fear — not absence of fear.|What is courage, per Twain?|Mastery of fear.|Face one fear.
+L|Ernest Hemingway|The Old Man and the Sea|A man can be destroyed but not defeated.|What did Santiago say?|A man can be destroyed but not defeated.|Keep going after a setback.
+L|Ernest Hemingway|A Farewell to Arms|The world breaks everyone; afterwards many are strong at the broken places.|What happens at broken places?|Many become strong there.|Recall a strength from a past break.
+L|Hermann Hesse|Siddhartha|Siddhartha said he could think, wait and fast — patience and self-control are powers.|What three skills did Siddhartha have?|Think, wait, fast.|Practise waiting patiently today.
+L|Hermann Hesse|Siddhartha|Wisdom cannot be taught; it must be lived and experienced.|How is wisdom gained, per Siddhartha?|Through experience.|Learn by doing today.
+L|Hermann Hesse|Siddhartha|The river teaches that everything returns and flows; listen to it.|What did the river teach?|Everything flows and returns.|Sit by water or listen to nature.
+L|Rainer Maria Rilke|Letters to a Young Poet|Be patient toward all that is unsolved in your heart; live the questions.|What did Rilke advise about questions?|Live them.|Write a question you'll live with.
+L|Rainer Maria Rilke|Letters to a Young Poet|Go into yourself; ask if you must create. Inner necessity matters.|What should a young poet ask?|Whether they must write.|Ask what you must do in life.
+L|Rainer Maria Rilke|Letters to a Young Poet|Solitude is not to be feared; it is where we grow.|What is solitude for?|Growth.|Spend 20 minutes alone.
+L|Bertrand Russell|The Conquest of Happiness|Zest — wide interests and friendly curiosity — is a key to happiness.|What is a key to happiness, per Russell?|Zest and wide interests.|Explore one new interest.
