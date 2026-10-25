@@ -2,8 +2,9 @@
 const mcFirst=s=>(s||'').split(/(?<=[.!?])\s/)[0];
 const mcShuf=a=>{a=a.slice();for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]]}return a};
 function mcQ(c,kind){const idx=/^c\d+$/.test(c.id)?+c.id.slice(1)-1:-1;
+ const H=typeof MC_H!=='undefined'&&MC_H[idx];if(H&&kind==='T')kind='X';
  const F={A:x=>x.a,X:x=>x.action,T:x=>mcFirst(x.text)}[kind];const M=typeof MC_A!=='undefined'?{A:MC_A,X:MC_X,T:MC_T}[kind]:null;
- let ds=(M&&M[idx]||[]).map(j=>CARDS[j]).filter(Boolean).map(F);
+ let ds=H&&kind!=='T'?H[kind==='A'?0:1].slice():(M&&M[idx]||[]).map(j=>CARDS[j]).filter(Boolean).map(F);
  if(ds.length<3){const ans=F(c);ds=ds.concat(mcShuf(all().filter(x=>x.id!==c.id&&(x.cat||'Life')===(c.cat||'Life')&&F(x)&&F(x)!==ans)).slice(0,3-ds.length).map(F))}
  const ans=F(c);let q;
  if(kind==='A')q=c.q;
