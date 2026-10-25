@@ -38,7 +38,7 @@
 613	They never fully heal.|They make us strong.|Darkness enters through them.	Accept that a past hurt will stay.|Toughen up about a past hurt.|Guard against an old hurt.
 614	Wise people change the world.|Clever people change themselves.|Wise people accept the world.	Change one thing in your community.|Change one thing to get ahead.|Accept one thing you dislike.
 615	Love made bearable.|Duty made visible.|Life made meaningful.	Endure today's work with patience.|Do today's work out of duty.|Find meaning in today's work.
-616	They come from you, not through you.|They belong to you.|They repeat your life.	Guide someone's choices closely.|Protect someone from all mistakes.|Share your life plan with your child.
+616	They come from you, not through you.|They belong to you.|They repeat your life.	Pass your own ambitions on to a child.|Guide someone's choices closely.|Protect someone from every mistake.
 617	Silence.|Sameness.|Constancy.	Spend a quiet evening together.|Share one hobby with a loved one.|Spend every evening together.
 618	Sorrow cancels joy.|Joy is the reward for sorrow.|Joy and sorrow never meet.	Forget a sorrow to make room for joy.|Expect joy after a sorrow.|Keep sorrow and joy apart.
 619	Anger only harms ourselves.|Others cannot change.|God alone may judge.	Hide your anger at someone's flaw.|Accept that someone never changes.|Leave judgment of someone to God.
@@ -46,8 +46,8 @@
 621	They find rest in themselves.|They are cured by reason.|They seek rest in pleasure.	Reflect on what you want next.|Reason through what troubles you.|Do something pleasant to rest.
 622	Our wisdom in waiting.|Our fear of change.|Our ignorance of virtue.	Wait for the right time for a good habit.|Face one fear of change.|Learn what a good habit is.
 623	Knowing how to rule others.|Knowing how to die.|Knowing how to be loved.	Spend an hour leading a project.|Spend an hour thinking about death.|Spend an hour pleasing others.
-624	Cats are wiser than us.|Animals have no inner life.|Play is part of wisdom.	Learn something from an animal.|Assume your view is the only one.|Play for an hour.
-625	A retreat from all society.|A place of study.|A secret shared with friends.	Cut off contact for a week.|Set up a study.|Tell a friend a secret.
+624	Cats are wiser than us.|Animals have no inner life.|Play is part of wisdom.	Learn a lesson by watching an animal.|Explain your view more patiently.|Make time to play with a pet.
+625	A retreat from all society.|A place of study.|A secret shared with friends.	Withdraw from society on a long retreat.|Keep a diary hidden from everyone.|Set up a home office for focused work.
 626	Hidden greatness.|Hidden vices.|True love.	Admire a loved one's hidden talents.|Expose a loved one's flaws.|Tell a loved one you love them.
 627	It is easily broken.|It frees the mind.|It gains authority suddenly.	Break one habit today.|Build one habit to free your mind.|Notice a habit you just formed.
 628	Everything.|Only what is good.|As much as he can.	Read all the news today.|Look only at good news.|Learn as much as you can.

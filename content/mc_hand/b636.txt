@@ -1,0 +1,60 @@
+636	All is for the best.|Seek the best of all worlds.|Travel to find wisdom.	Debate why the world is as it is.|Plan a trip in search of meaning.|Read a book on metaphysics tonight.
+637	The bad.|Haste.|Mediocrity.	Polish one task until it's flawless.|Rush a task to get it done.|Raise your standard for one task.
+638	By lectures.|By memorisation.|By strict discipline.	Explain to someone exactly how it's done.|Have someone copy your example step by step.|Set firm rules for someone to follow.
+639	One's own conscience as God's voice.|The opinion of the crowd.|A neutral judge enforcing the law.	Ask what most people would think of you.|Ask what a judge would rule on you.|Ask how your friends would defend you.
+640	Wealth and rank.|Ambition fulfilled.|Constant striving.	Work late to get ahead.|Set a bigger goal for the year.|Treat yourself after a win.
+641	Doubt everything.|Retreat from the world.|Follow reason alone.	Spend a whole day studying alone.|Question one belief you hold.|Reason through a choice without feelings.
+642	Act to bring the most happiness.|Do as you would be done by.|Follow the rules of your society.	Ask: what will make most people happy?|Ask: how would I like to be treated?|Ask: what does the law allow?
+643	As equals in every respect.|As means to the common good.|According to their merits.	Tip a service worker generously.|Thank a service worker for their speed.|Rate a service worker fairly online.
+644	Know thyself.|Question authority.|Knowledge is power.	Look up what experts say on one issue.|Reflect on your own character.|Learn one useful skill.
+645	What we lack.|What others have.|What we have lost.	List five things you want.|List five things you've lost.|List five things others have.
+646	Learning from the wise.|A substitute for thinking.|Conversation with the dead.	Read one more card today.|Memorise a card word for word.|Look up what an expert said about a card.
+647	Wealth.|Health.|Good friends.	Look after your health in one task.|Spend time with a friend.|Earn a bit extra today.
+648	What we overcome.|What we avoid.|What we endure in silence.	Avoid one risk today.|Push through pain until you're numb.|Endure one hardship without telling anyone.
+649	Become who you should be.|Know who you are.|Become what you admire.	Copy one habit of someone you admire.|Do one thing you ought to do.|Reflect on who you really are.
+650	Mastery of one's fate.|Defiance of one's fate.|Fear of one's fate.	Endure a setback until it passes.|Fight back hard against a setback.|Prepare for the next setback.
+651	Would you change this life if you could?|Will this life be remembered forever?|Is this life worth living once?	Make today one you'd be proud of.|Make today one others will remember.|Make today different from yesterday.
+652	One with a how.|One with a will.|One with faith.	Write your plan.|Write your goals.|Write your prayer.
+653	Understood forwards, lived backwards.|Understood and lived forwards.|Understood only at the end.	Wait until you're certain before deciding.|Review the past before every decision.|Plan every step before you decide.
+654	The fear of death.|The weight of guilt.|The burden of duty.	Treat anxiety as a sign of danger.|Treat anxiety as a sign of guilt.|Treat anxiety as something to suppress.
+655	Doubts all things.|Forgives all things.|Sees all faults.	Ask for proof before trusting someone.|Hope someone changes their ways.|Point out one fault kindly today.
+656	Reason can justify any crime.|Great men stand above morality.|Poverty excuses wrongdoing.	Reason your way past a guilty feeling.|Follow the logic wherever it leads.|Excuse one wrong by its good outcome.
+657	Each for his own soul.|Only for those we love.|Only for what we choose.	Do a favour for a close friend.|Focus on your own conduct only.|Donate to one large cause.
+658	Reason above all desire.|Happiness above freedom.|Obedience to good advice.	Notice where you follow advice blindly.|Notice where you choose comfort over freedom.|Notice where reason overrules your wishes.
+659	Truth.|Faith.|Reason.	Tell the truth to someone today.|Say a prayer for the world today.|Solve one problem logically today.
+660	To love another is to know oneself.|To love God is to love another.|To be loved is to be saved.	Reflect on what love says about you.|Pray for someone you love.|Let someone show love to you.
+661	It must simply be endured.|It is darkest before dawn.|It never truly ends.	Push through a hard time without hope.|Expect things to get worse first.|Accept that hard times always return.
+662	Mercy without justice.|Valjean's crimes.|His own ambition.	Apply the rules strictly in one judgement.|Let someone off without any judgement.|Defer one judgement to someone else.
+663	Fear of his own death.|The love of a child.|The loss of his wealth.	Imagine your own funeral tomorrow.|Spend time with a child you love.|Imagine losing everything you own.
+664	Keep debts below income.|Never borrow money.|Save a fixed share of income.	Ask for a raise to cover spending.|Cancel one loan or credit card.|Move 10% of income to savings.
+665	Ambition rewards hard work.|Wealth brings true gentility.|Love conquers class.	Work harder to rise at your job.|Improve your manners to fit in.|Tell someone you love them anyway.
+666	Love and jealousy.|Wealth and rank.|Sense and sensibility.	Trust your first impression of someone.|Look past someone's social status.|Balance feeling and judgement in a choice.
+667	Pride and prejudice.|Reason and passion.|Duty and desire.	Weigh duty against desire in a decision.|Let reason rule your feelings in a decision.|Question a first impression in a decision.
+668	Great deeds of history.|The wise few.|Heroic sacrifices.	Do one bold good deed publicly.|Learn from a great historical figure.|Sacrifice something for a cause.
+669	His crew's mutiny.|Pride.|Revenge.	Stop chasing one dangerous goal.|Admit one thing you're proud of.|Forgive someone who hurt you.
+670	What you did.|What you said.|What you lost.	Apologise for one thing you did.|Take back one thing you said.|Recover one thing you lost.
+671	Working harder.|Having a plan.|Staying focused.	Work longer on a current task.|Plan a task you've delayed.|Focus on one task without breaks.
+672	Absence of fear.|Ignoring fear.|Controlling others' fear.	Wait until a fear passes, then act.|Pretend one fear isn't there.|Calm someone else's fear.
+673	A man can be defeated but not destroyed.|A man is never destroyed or defeated.|A man is destroyed when defeated.	Quit after a setback with dignity.|Pretend a setback never happened.|Accept a setback as final.
+674	Many stay broken there.|Many become bitter there.|Many become cautious there.	Recall a wound you never recovered from.|Recall a grudge from a past hurt.|Recall how a past hurt made you cautious.
+675	Read, write, pray.|Speak, listen, wait.|Work, rest, fast.	Read for an hour today.|Listen carefully in one conversation.|Rest instead of working today.
+676	Through teachers.|Through books.|Through meditation.	Find a teacher today.|Read a wise book today.|Meditate for an hour today.
+677	Everything passes and is lost.|Everything stays the same.|Everything follows a plan.	Let go of something you've lost.|Keep a steady routine today.|Plan your week in detail.
+678	Solve them.|Answer them with faith.|Set them aside.	Write a question and research the answer.|Write a question you'll pray about.|Write down one worry, then forget it.
+679	Whether they will be famous.|Whether their work is good.|Whether others will read it.	Ask what you'd be praised for doing.|Ask whether your work is good enough.|Ask what others need you to do.
+680	Rest.|Escape.|Prayer.	Rest quietly after a busy day.|Hide from a busy day.|Pray alone for 20 minutes.
+681	Deep focus on one passion.|Freedom from desire.|Wealth and leisure.	Go deeper into one current hobby.|Give up one hobby you crave.|Buy something for a hobby.
+682	Whenever they arise.|Only when others ask.|Never — let them solve themselves.	Deal with each worry the moment it comes.|Wait until someone asks for help.|Ignore one problem until it fades.
+683	Hard work and duty.|Study and learning.|Thrift and saving.	Work an extra hour to get ahead.|Spend an hour studying.|Save an hour's pay.
+684	Fear.|Boredom.|Poverty.	Face one fear today.|Try something new today.|Cut one expense today.
+685	Defiant.|Resigned.|Tragic.	Rebel against a repetitive task.|Accept a repetitive task with a sigh.|Grieve the time a repetitive task takes.
+686	A longing for summer.|A deep despair.|A warm memory.	Plan a holiday somewhere warm.|Admit a sorrow you've hidden.|Look forward to better days.
+687	Fighting injustice.|Heroic sacrifice.|Faith in God.	Protest one wrong today.|Sacrifice something for others today.|Pray for those suffering today.
+688	Our nature defines our choices.|We are born with a purpose.|Choices matter less than nature.	Discover the purpose you were born for.|Act according to your nature.|Find out your personality type.
+689	By freeing oneself first.|By obeying just laws.|By rejecting all limits.	Make one choice just for yourself.|Follow one rule you believe in.|Ignore one limit set on you.
+690	In quiet contentment.|In restless ambition.|In lonely solitude.	Accept your routine as it is.|Chase one more promotion.|Withdraw from friends for a while.
+691	Bitter disappointment.|Steady progress.|Public fame.	Lower your expectations for a dream.|Track progress toward a dream.|Share your dream publicly.
+692	Freedom.|Solitude.|Nature.	Spend an hour on your own terms.|Spend an hour alone.|Spend an hour outdoors.
+693	Civilisation.|Cultivation.|Conservation laws.	Read about the wilderness.|Tend a garden.|Sign a petition for a park.
+694	Tradition.|Self-interest.|Public opinion.	Obey a rule until it's changed.|Go along to keep the peace.|Follow what tradition expects.
+695	Following great men.|Self-improvement.|Consistency.	Copy someone you admire.|Agree just to keep the peace.|Repeat what you said last time.
