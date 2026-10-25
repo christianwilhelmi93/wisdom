@@ -17,3 +17,6 @@ iOS PWAs can't schedule local notifications reliably, so use a personal automati
 3. Add **Get Random Item from List**, then **Show Notification** with that item.
 4. Add **Open URLs**: `https://<your-host>/?checkin=1` (opens straight into the check-in screen).
 (Alternatively skip the notification and just Open URLs.) Web Push was skipped: it needs a server.
+
+## Shortcut setup pop-up
+Shown on open until both shortcuts are activated or declined. Paste iCloud share links into `shortcuts-config.js` (`SHORTCUT_LINKS`) to turn the Install buttons into one-tap installs. Check-in activates itself when opened via `?checkin=1&src=sc`; the wallpaper step is self-confirmed.
