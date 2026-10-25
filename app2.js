@@ -142,7 +142,7 @@ Object.assign(views,{body:vBody,money:vMoney,shop:vShop,interview:vInterview,che
 const _go=go;go=function(v,arg){if(v==='learn')v='library';_go(v,arg);document.querySelectorAll('nav button').forEach(b=>b.classList.toggle('on',b.dataset.v===v||(v==='library'&&b.dataset.v==='learn')||(v==='session'&&b.dataset.v==='learn')))};
 // Hall extras: face, shop, progress links
 const _vHall=vHall;vHall=function(){_vHall();V.insertAdjacentHTML('afterbegin',`<div class="row" style="gap:8px;margin-bottom:10px"><button class="btn ghost" id="toShop" style="margin:0">🛒 Shop · 🪙${S.coins}</button><button class="btn ghost" id="toProg" style="margin:0">📈 Progress</button></div>`);
- V.insertAdjacentHTML('beforeend',`<h3>Career path</h3>${careerTimeline()}<h3>Your face</h3><p class="tag">Take or upload a selfie; it's turned into an illustrated face on your avatar. Stored only on this phone.</p><input type="file" id="face" accept="image/*" capture="user">${FACE?'<button class="btn ghost" id="nof">Remove face</button>':''}`);
+ V.insertAdjacentHTML('beforeend',`<h3>Career path</h3>${careerTimeline()}<h3>Your face</h3><p class="tag">Take or upload a selfie; it's shown as a tone-matched portrait badge on your avatar card. Stored only on this phone.</p><input type="file" id="face" accept="image/*" capture="user">${FACE?'<button class="btn ghost" id="nof">Remove face</button>':''}`);
  $('#toShop').onclick=()=>go('shop');$('#toProg').onclick=()=>go('progress');$('#face').onchange=e=>{const f=e.target.files[0];if(!f)return;const i=new Image();i.onload=()=>{setFace(stylizeFace(i));vHall()};i.src=URL.createObjectURL(f)};if($('#nof'))$('#nof').onclick=()=>{setFace(null);vHall()}};
 views.hall=vHall;
 // Wallpaper: optional goal bar (client-side only)

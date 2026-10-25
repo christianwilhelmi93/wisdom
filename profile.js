@@ -22,7 +22,7 @@ function vProfile(){ensure();ensureProfile();const p=S.profile,tg=S.body.targets
  <label>Daily targets</label><div class="row"><input id="pk" type="number" inputmode="numeric" value="${tg.kcal}"><span class="tag">kcal</span><input id="pp" type="number" inputmode="numeric" value="${tg.p}"><span class="tag">g protein</span></div>
  <p class="tag">Suggested from your stats: ${sg.kcal} kcal · ${sg.p} g protein (maintenance). <a href="#" id="psg" style="color:var(--gold)">Use these</a></p>
  <button class="btn" id="psv">Save profile</button></div>
- <div class="card"><h3 style="margin-top:0">Your face</h3><p class="tag">Optional selfie, turned into an illustrated face on your avatar.</p><input type="file" id="pf" accept="image/*" capture="user">${FACE?'<button class="btn ghost" id="pnf">Remove face</button>':''}</div>
+ <div class="card"><h3 style="margin-top:0">Your face</h3><p class="tag">Optional selfie, shown as a tone-matched portrait badge on your avatar card.</p><input type="file" id="pf" accept="image/*" capture="user">${FACE?'<button class="btn ghost" id="pnf">Remove face</button>':''}</div>
  <div class="card"><h3 style="margin-top:0">Backup</h3><p class="tag">Everything (progress, body, money, supplements, face, photos) as one JSON file.</p><button class="btn ghost" id="pex">Export backup</button><button class="btn ghost" id="pim">Import backup</button></div>`;
  $('#psg').onclick=e=>{e.preventDefault();$('#pk').value=sg.kcal;$('#pp').value=sg.p};
  $('#psv').onclick=()=>{p.name=$('#pn').value.trim();p.birth=$('#pb').value;p.sex=$('#ps').value;p.activity=$('#pa').value;S.body.height=+$('#ph').value||S.body.height;S.body.targets={kcal:+$('#pk').value||2200,p:+$('#pp').value||160};p.done=true;save();go('today')};
